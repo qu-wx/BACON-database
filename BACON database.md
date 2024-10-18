@@ -1,6 +1,4 @@
 ﻿
-> 提示：文章写完后，目录可以自动生成，如何生成可参考右边的帮助文档
-
 # BACON database 
 ---------
 # 1.Intra-species communication
