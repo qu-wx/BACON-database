@@ -1,0 +1,900 @@
+ligand_species,ligand_UHGG_genename,ligand_gene,ligand_product,ligand_system,ligand_complex,ligand_complex_number
+Acetivibrio_A ethanolgignens,MGYG000002464-00748,agrB,Accessory gene regulator protein B,AIPs,1,1
+Acidaminococcus fermentans,MGYG000000901_00777,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Acidaminococcus fermentans_A,MGYG000004805_01445,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Acidaminococcus intestini,MGYG000001440_00041,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Acidaminococcus massiliensis,MGYG000001556_00430,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Acidaminococcus timonensis,MGYG000003477_00943,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Acinetobacter baumannii,MGYG000002344_01835,anoI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Acinetobacter nosocomialis,MGYG000002345_02290,anoI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Acinetobacter pittii,MGYG000002346_02070,anoI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Actinobaculum massiliense,MGYG000003314_00254,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Actinomyces graevenitzii,MGYG000002941_00898,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Actinomyces oris,MGYG000002943_01421,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Actinomyces urogenitalis,MGYG000002900_00727,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Aeromonas caviae,MGYG000002527_01413,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Aeromonas caviae,MGYG000002527-00645,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Aeromonas dhakensis,MGYG000001692_04341,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Aeromonas dhakensis,MGYG000001692-03538,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Aeromonas hydrophila,MGYG000002526_03826,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Aeromonas hydrophila,MGYG000002526-00075,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Aeromonas rivipollensis,MGYG000003144_03059,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Aeromonas rivipollensis,MGYG000003144-03974,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Aeromonas veronii,MGYG000002529_02948,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Aeromonas veronii,MGYG000002529-03949,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Aeromonas veronii_A,MGYG000001691_00241,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Aeromonas veronii_A,MGYG000001691-00979,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Agathobacter faecis,MGYG000003694_02827,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Agathobacter faecis,MGYG000003694-01825,agrB,Accessory gene regulator protein B,AIPs,1,1
+Agathobacter rectalis,MGYG000002492_02368,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Agathobacter rectalis,MGYG000002492-00843,agrB,Accessory gene regulator protein B,AIPs,1,1
+Agathobaculum butyriciproducens,MGYG000000185_00020,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Agathobaculum butyriciproducens,MGYG000000185-00612,agrB,Accessory gene regulator protein B,AIPs,1,1
+Agathobaculum desmolans,MGYG000002863_00858,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Aggregatibacter segnis,MGYG000004313_01652,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Aliarcobacter butzleri,MGYG000002364_00132,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Alkalihalobacillus alcalophilus,MGYG000002326_02170,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Alloprevotella tannerae,MGYG000004291_01365,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Alloscardovia omnicolens,MGYG000003120_01235,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Amedibacillus dolichus,MGYG000001299_01590,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Amedibacterium intestinale,MGYG000000240_02393,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Amulumruptor caecigallinarius,MGYG000001795_01612,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerobutyricum hallii,MGYG000000262_01887,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerobutyricum soehngenii,MGYG000000077_02404,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerocolumna aminovalerica,MGYG000002836_03615,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerocolumna aminovalerica,MGYG000002836-01027,agrB,Accessory gene regulator protein B,AIPs,1,1
+Anaerofustis stercorihominis,MGYG000001305_00700,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerosalibacter massiliensis,MGYG000001473-00217,agrB,Accessory gene regulator protein B,AIPs,1,1
+Anaerosporobacter mobilis,MGYG000002963_02069,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerosporobacter mobilis,MGYG000002963-00610,agrB,Accessory gene regulator protein B,AIPs,1,1
+Anaerostipes caccae,MGYG000000080_00001,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerostipes hadrus,MGYG000002528_00383,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerostipes hadrus_A,MGYG000000028_01544,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerostipes rhamnosivorans,MGYG000000988_00886,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerotignum faecicola,MGYG000000177_00406,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerotignum lactatifermentans,MGYG000001820_01477,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerotignum lactatifermentans,MGYG000001820-01664,agrB,Accessory gene regulator protein B,AIPs,1,1
+Anaerotruncus colihominis,MGYG000000004_03560,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerotruncus massiliensis,MGYG000004618_00553,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Anaerotruncus rubiinfantis,MGYG000000131_01767,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Aneurinibacillus aneurinilyticus,MGYG000001453-04467,agrB,Accessory gene regulator protein B,AIPs,1,1
+Atlantibacter hermannii,MGYG000001266_03661,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Atlantibacter hermannii,MGYG000001266-01613,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Atopobium minutum,MGYG000004259_00209,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacillus licheniformis,MGYG000002357_03212,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacillus paralicheniformis,MGYG000000147_01812,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacillus paralicheniformis,MGYG000000147-03992,agrB,Accessory gene regulator protein B,AIPs,1,1
+Bacillus sonorensis,MGYG000000227_04420,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacillus sonorensis,MGYG000000227-04590,agrB,Accessory gene regulator protein B,AIPs,1,1
+Bacillus subtilis,MGYG000000012_02204,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacillus_A luti,MGYG000002288_03554,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacillus_A paranthracis,MGYG000002283_04846,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacillus_A thuringiensis_S,MGYG000001712_04814,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacillus_A wiedmannii,MGYG000002356_00201,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides clarus,MGYG000000105_01888,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides cutis,MGYG000002300_00214,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides dorei,MGYG000002478_01493,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides eggerthii,MGYG000001313_00252,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides fluxus,MGYG000001370_01755,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides gallinarum,MGYG000001661_01229,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides massiliensis_A,MGYG000004019_01166,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides ndongoniae,MGYG000002621_01017,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides neonati,MGYG000001461_00235,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides stercoris,MGYG000003681_02200,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides togonis,MGYG000000652_01207,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides uniformis,MGYG000001346_02103,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides_F pectinophilus,MGYG000001314_01025,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bacteroides_F pectinophilus,MGYG000001314-00789,agrB,Accessory gene regulator protein B,AIPs,1,1
+Bariatricus comes,MGYG000001315_03242,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bariatricus massiliensis,MGYG000002945_00078,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Barnesiella intestinihominis,MGYG000000144_00186,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium adolescentis,MGYG000002395_00531,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium angulatum,MGYG000002397_00658,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium animalis,MGYG000002459_00581,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium bifidum,MGYG000002396_00685,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium breve,MGYG000002469_00599,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium catenulatum,MGYG000001490_00492,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium dentium,MGYG000001354_00066,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium gallicum,MGYG000001471_00229,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium gallinarum,MGYG000003069_01413,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium globosum,MGYG000002365_00640,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium infantis,MGYG000001292_02126,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium pseudocatenulatum,MGYG000003683_00947,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium pullorum,MGYG000001159_01832,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium ruminantium,MGYG000003452_00717,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium scardovii,MGYG000003383_02371,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium thermophilum,MGYG000002334_01183,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium vaginale,MGYG000003725_00591,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium vaginale_E,MGYG000003730_00647,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bifidobacterium vaginale_G,MGYG000001287_00765,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bittarella massiliensis,MGYG000001454_02232,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bittarella massiliensis,MGYG000001454-02305,agrB,Accessory gene regulator protein B,AIPs,1,1
+Blautia coccoides,MGYG000001689_00568,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia hansenii,MGYG000001704_01087,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia hominis,MGYG000002437_00254,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia hominis,MGYG000002437-01543,agrB,Accessory gene regulator protein B,AIPs,1,1
+Blautia stercoris,MGYG000002286_02820,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia_A caecimuris,MGYG000000133_02170,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia_A caecimuris,MGYG000000133-02398,agrB,Accessory gene regulator protein B,AIPs,1,1
+Blautia_A faecis,MGYG000000002_02629,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia_A hydrogenotrophica,MGYG000000035_00366,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia_A luti,MGYG000000184_01460,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia_A massiliensis,MGYG000000142_01032,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia_A obeum,MGYG000000212_02044,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia_A obeum_B,MGYG000000252_00392,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia_A schinkii,MGYG000004269_01743,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia_A wexlerae_A,MGYG000001338_01380,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Blautia_A wexlerae_B,MGYG000004785_01322,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Borkfalkia ceftriaxoniphila,MGYG000000444_00772,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Brevibacillus_C massiliensis,MGYG000002314-03363,agrB,Accessory gene regulator protein B,AIPs,1,1
+Bulleidia massiliensis_B,MGYG000003620_00860,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Bulleidia massiliensis_B,MGYG000003620-01014,agrB,Accessory gene regulator protein B,AIPs,1,1
+Bulleidia moorei,MGYG000000173_00538,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Butyricicoccus pullicaecorum,MGYG000001434_01843,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Butyricimonas synergistica,MGYG000001552_00490,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Butyricimonas virosa,MGYG000000203_00395,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Butyrivibrio_A crossotus,MGYG000001319_00136,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Butyrivibrio_A crossotus,MGYG000001319-00166,agrB,Accessory gene regulator protein B,AIPs,1,1
+CAG-81 sp000435795,MGYG000000087_01600,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+CAG-81 sp000435795,MGYG000000087-03010,agrB,Accessory gene regulator protein B,AIPs,1,1
+CAG-81 sp900066055,MGYG000000255_00991,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+CAG-81 sp900066535,MGYG000000205_02345,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+CAG-81 sp900066785,MGYG000000233_01889,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+CAG-81 sp900541255,MGYG000001199_02930,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+CAG-81 sp900541255,MGYG000001199-00398,agrB,Accessory gene regulator protein B,AIPs,1,1
+CAG-81 sp900556965,MGYG000002226_00688,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Campylobacter fetus,MGYG000000554_00027,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Campylobacter hyointestinalis,MGYG000002307_00440,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Campylobacter lanienae,MGYG000002308_01009,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Campylobacter testudinum,MGYG000002374_01295,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Campylobacter_A concisus,MGYG000002435_01489,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Campylobacter_A curvus,MGYG000001706_00352,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Campylobacter_B hominis,MGYG000002479_00518,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Campylobacter_B ureolyticus,MGYG000002543_01067,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Campylobacter_D coli,MGYG000001297_00247,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Campylobacter_D coli_A,MGYG000002332_01116,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Campylobacter_D coli_B,MGYG000002333_01314,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Campylobacter_D jejuni,MGYG000002422_00143,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Capnocytophaga ochracea,MGYG000003119_02012,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Cardiobacterium valvarum,MGYG000002541_01914,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Catenibacterium mitsuokai,MGYG000000026_02288,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Cedecea davisae,MGYG000001445_03409,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Cedecea davisae,MGYG000001445-04363,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Cellulomonas massiliensis,MGYG000001416_02954,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Cellulomonas timonensis,MGYG000001537_00793,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Chimaeribacter arupi,MGYG000003378_01431,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Christensenella hongkongensis,MGYG000001593-01984,agrB,Accessory gene regulator protein B,AIPs,1,1
+Citrobacter braakii,MGYG000002816_01905,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Citrobacter braakii,MGYG000002816-02289,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Citrobacter europaeus,MGYG000002495_02235,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Citrobacter europaeus,MGYG000002495-01190,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Citrobacter freundii,MGYG000000108_02872,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Citrobacter freundii,MGYG000000108-03766,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Citrobacter gillenii,MGYG000002535_00777,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Citrobacter gillenii,MGYG000002535-04405,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Citrobacter portucalensis,MGYG000001705_01093,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Citrobacter portucalensis,MGYG000001705-00111,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Citrobacter portucalensis_A,MGYG000001317_01393,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Citrobacter portucalensis_A,MGYG000001317-00899,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Citrobacter werkmanii,MGYG000003372_04672,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Citrobacter werkmanii,MGYG000003372-03401,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Citrobacter youngae,MGYG000000124_03853,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Citrobacter youngae,MGYG000000124-03425,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Citrobacter_A amalonaticus,MGYG000002477_01537,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Citrobacter_A amalonaticus,MGYG000002477_01760,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Citrobacter_A amalonaticus,MGYG000002477-00482,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Citrobacter_A farmeri,MGYG000002534_04012,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Citrobacter_A farmeri,MGYG000002534_03810,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Citrobacter_A farmeri,MGYG000002534-00120,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Citrobacter_A sedlakii,MGYG000001700_03870,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Citrobacter_A sedlakii,MGYG000001700_02342,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Citrobacter_A sedlakii,MGYG000001700-01742,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Citrobacter_B koseri,MGYG000002494_04522,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Citrobacter_B koseri,MGYG000002494-02273,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Clostridioides difficile,MGYG000002369_03567,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridioides difficile,MGYG000002369-02655,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridioides difficile_A,MGYG000002370_03875,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridioides difficile_A,MGYG000002370-03097,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium baratii,MGYG000000064_01414,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium baratii,MGYG000000064-00944,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium beijerinckii,MGYG000004667_03164,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium beijerinckii,MGYG000004667-00013,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium butyricum,MGYG000000014_01945,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium butyricum,MGYG000000014-00591,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium celatum,MGYG000001423_02115,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium celatum,MGYG000001423-00847,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium cuniculi,MGYG000000104_02519,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium cuniculi,MGYG000000104-01446,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium disporicum_A,MGYG000000047_02069,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium disporicum_A,MGYG000000047-01313,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium neonatale,MGYG000000902_01196,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium neonatale,MGYG000000902-00191,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium nigeriense,MGYG000000915_02134,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium nigeriense,MGYG000000915-02140,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium paraputrificum,MGYG000000151_00298,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium paraputrificum,MGYG000000151-00514,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium saudiense,MGYG000000149_03617,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium saudiense,MGYG000000149-01566,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium septicum,MGYG000002373-00168,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium sp000435835,MGYG000001089_01398,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium sp001916075,MGYG000002190-01603,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium sp900539375,MGYG000000977_00520,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium sp900539375,MGYG000000977-00602,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium sp900540255,MGYG000000839_00585,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium sp900540255,MGYG000000839-01086,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium sp900543325,MGYG000002962_02388,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium sp900547475,MGYG000003114_01239,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium sp900759995,MGYG000004230_00664,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium sp900759995,MGYG000004230-00336,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium sp900766315,MGYG000003396_03339,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium sp900766315,MGYG000003396-01075,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium sp900769625,MGYG000003550_02017,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium sp900769625,MGYG000003550-00585,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium tertium,MGYG000001328_00597,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium tertium,MGYG000001328-00603,agrB,Accessory gene regulator protein B,AIPs,1,1
+Clostridium_A leptum,MGYG000000069_01944,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium_Q saccharolyticum_A,MGYG000002483_02897,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium_Q sp000435655,MGYG000003074_00060,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium_Q sp003024715,MGYG000002445_01274,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium_Q sp900547735,MGYG000001617_01367,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Clostridium_Q symbiosum,MGYG000001367_00696,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Collinsella aerofaciens,MGYG000001353_00058,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Collinsella bouchesdurhonensis,MGYG000001236_01104,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Collinsella ihuae,MGYG000001538_00723,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Collinsella stercoris,MGYG000001709_00119,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Collinsella tanakaei,MGYG000001382_01256,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Collinsella vaginalis,MGYG000000313_01145,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Companilactobacillus farciminis,MGYG000004788_01534,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Companilactobacillus farciminis_A,MGYG000000822_00235,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Coprobacter fastidiosus,MGYG000001391_00523,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Coprococcus eutactus,MGYG000000018_00421,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Coprococcus eutactus,MGYG000000018-02080,agrB,Accessory gene regulator protein B,AIPs,1,1
+Coprococcus eutactus_A,MGYG000000231_00459,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Coprococcus eutactus_A,MGYG000000231-01532,agrB,Accessory gene regulator protein B,AIPs,1,1
+Coprococcus_A catus,MGYG000001714_03217,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Coprococcus_A catus,MGYG000001714-00571,agrB,Accessory gene regulator protein B,AIPs,1,1
+Corynebacterium afermentans,MGYG000001701_01627,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Corynebacterium ammoniagenes,MGYG000001533_02050,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Corynebacterium aurimucosum_C,MGYG000003762_00079,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Corynebacterium aurimucosum_E,MGYG000003380_01536,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Corynebacterium glucuronolyticum,MGYG000000762_01140,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Corynebacterium kefirresidentii,MGYG000003125_00262,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Corynebacterium kroppenstedtii_A,MGYG000002888_00357,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Corynebacterium phoceense,MGYG000001554_00517,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Corynebacterium striatum,MGYG000003375_02108,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Cronobacter malonaticus,MGYG000002484_02051,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Cronobacter malonaticus,MGYG000002484-00189,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Cronobacter sakazakii,MGYG000002460_02919,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Cronobacter sakazakii,MGYG000002460-03799,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Cutibacterium acnes,MGYG000000111_01404,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Cutibacterium avidum,MGYG000001446_01634,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Cutibacterium granulosum,MGYG000003135_01336,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Dermabacter hominis,MGYG000001448_01449,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Desulfitobacterium hafniense,MGYG000001388-00071,agrB,Accessory gene regulator protein B,AIPs,1,1
+Dorea formicigenerans,MGYG000000146_00092,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Dorea_A longicatena,MGYG000000038_00406,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Dorea_A longicatena,MGYG000000038-01795,agrB,Accessory gene regulator protein B,AIPs,1,1
+Dorea_A longicatena_B,MGYG000002279_01346,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Dorea_A sp900550865,MGYG000002992_00998,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Dorea_B phocaeensis,MGYG000001607_01174,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Duncaniella dubosii,MGYG000001910_02118,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Edwardsiella tarda,MGYG000001351_02575,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Edwardsiella tarda,MGYG000001351_02830,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Eikenella corrodens,MGYG000001625_00407,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Eisenbergiella tayi,MGYG000002330-06233,agrB,Accessory gene regulator protein B,AIPs,1,1
+Ellagibacter isourolithinifaciens,MGYG000004041_00314,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Emergencia timonensis,MGYG000001547-00721,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enorma massiliensis,MGYG000001413_00199,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enorma timonensis,MGYG000001427_01970,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter asburiae_B,MGYG000002519_02105,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Enterobacter asburiae_B,MGYG000002519_04076,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter asburiae_B,MGYG000002519-02645,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter bugandensis,MGYG000002823_04088,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter bugandensis,MGYG000002823-02665,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter cancerogenus,MGYG000001318_00637,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter cancerogenus,MGYG000001318-02198,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter chengduensis,MGYG000002502_01771,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter chengduensis,MGYG000002502-00641,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter cloacae,MGYG000002500_03719,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter cloacae,MGYG000002500-00320,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter cloacae_K,MGYG000002501_02005,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Enterobacter cloacae_K,MGYG000002501_03915,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter cloacae_K,MGYG000002501-01605,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter cloacae_O,MGYG000000019_03264,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter cloacae_O,MGYG000000019-03464,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter hormaechei_A,MGYG000002504_03141,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter hormaechei_A,MGYG000002504-04520,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter kobei,MGYG000000235_01583,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter kobei,MGYG000000235-03646,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter ludwigii,MGYG000002503_04199,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter ludwigii,MGYG000002503-03380,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter mori,MGYG000000015_03501,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter mori,MGYG000000015-01702,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter roggenkampii,MGYG000002499_00098,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Enterobacter roggenkampii,MGYG000002499_01355,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter roggenkampii,MGYG000002499-02232,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter sichuanensis,MGYG000002498_01843,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter sichuanensis,MGYG000002498-02245,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter_A timonensis,MGYG000001536_01164,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter_A timonensis,MGYG000001536-00361,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterobacter_D kobei_A,MGYG000003360_00656,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterobacter_D kobei_A,MGYG000003360-03119,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Enterocloster aldenensis,MGYG000000179_04301,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster asparagiformis,MGYG000002328_05104,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster bolteae,MGYG000001493_02841,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster citroniae,MGYG000000198_03762,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster clostridioformis,MGYG000001386_02639,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster clostridioformis,MGYG000001386-02909,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterocloster clostridioformis_A,MGYG000001564_03812,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster lavalensis,MGYG000000172_02065,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster lavalensis,MGYG000000172-04451,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterocloster sp000155435,MGYG000001311_01561,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp000431375,MGYG000000242_00646,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp001517625,MGYG000001531_01024,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp005845215,MGYG000001045_01775,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp900538485,MGYG000001065_02349,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp900540675,MGYG000004087_00213,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp900540675,MGYG000004087-00954,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterocloster sp900541315,MGYG000001246_02186,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp900543885,MGYG000000774_02454,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp900547035,MGYG000001606_00056,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp900549235,MGYG000001622_00661,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp900555045,MGYG000002995_01186,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp900555905,MGYG000002946_02623,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp900753815,MGYG000001971_03118,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp900759225,MGYG000001250_01904,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterocloster sp900770345,MGYG000003593_01518,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus caccae,MGYG000002468_00822,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus caccae,MGYG000002468-03119,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterococcus faecalis,MGYG000001694_01025,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_A avium,MGYG000002270_03831,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_A avium,MGYG000002270-03569,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterococcus_A devriesei,MGYG000003709_01773,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_A gilvus,MGYG000003714_02064,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_A gilvus,MGYG000003714-02521,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterococcus_A raffinosus,MGYG000001696_00137,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_A raffinosus,MGYG000001696-00300,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterococcus_A sp002140655,MGYG000002939-02451,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterococcus_B durans,MGYG000000162_02860,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_B durans,MGYG000000162-02726,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterococcus_B faecium,MGYG000002353_00427,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_B faecium,MGYG000002353-00416,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterococcus_B hirae,MGYG000004798_00145,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_B hirae,MGYG000004798-00165,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterococcus_B lactis,MGYG000002320_00971,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_B lactis,MGYG000002320-01444,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterococcus_B pernyi,MGYG000002493_02988,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_B pernyi,MGYG000002493-00791,agrB,Accessory gene regulator protein B,AIPs,1,1
+Enterococcus_C asini,MGYG000000163_00688,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_C dispar,MGYG000001208_00870,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_C massiliensis,MGYG000001492_01498,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_D casseliflavus,MGYG000000238_03065,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_D gallinarum,MGYG000000106_02635,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_D sp002850555,MGYG000000323_00285,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterococcus_G italicus,MGYG000000335_01176,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Enterovibrio hollisae,MGYG000002532_01890,cqsA,CAI-1 autoinducer synthase,CAI-1,1,1
+Erysipelatoclostridium ramosum,MGYG000001400_00643,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Erysipelatoclostridium ramosum,MGYG000001400-02278,agrB,Accessory gene regulator protein B,AIPs,1,1
+Erysipelatoclostridium saccharogumia,MGYG000001697_02191,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Erysipelatoclostridium saccharogumia,MGYG000001697-00486,agrB,Accessory gene regulator protein B,AIPs,1,1
+Erysipelatoclostridium spiroforme,MGYG000001304_02372,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Erysipelatoclostridium spiroforme,MGYG000001304-00332,agrB,Accessory gene regulator protein B,AIPs,1,1
+Escherichia albertii,MGYG000002507_03341,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Escherichia albertii,MGYG000002507-01628,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Escherichia coli,MGYG000002506_02188,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Escherichia coli,MGYG000002506-03267,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Escherichia fergusonii,MGYG000002515_00366,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Escherichia fergusonii,MGYG000002515-03779,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Escherichia marmotae,MGYG000002322_02299,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Escherichia marmotae,MGYG000002322-03477,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Eubacterium callanderi,MGYG000000121_00886,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Eubacterium callanderi,MGYG000000121-03469,agrB,Accessory gene regulator protein B,AIPs,1,1
+Eubacterium limosum,MGYG000001276_00075,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Eubacterium limosum,MGYG000001276-01950,agrB,Accessory gene regulator protein B,AIPs,1,1
+Eubacterium maltosivorans,MGYG000000219_01044,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Eubacterium maltosivorans,MGYG000000219-00691,agrB,Accessory gene regulator protein B,AIPs,1,1
+Eubacterium_G ventriosum,MGYG000000208_00454,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Eubacterium_G ventriosum,MGYG000000208-01375,agrB,Accessory gene regulator protein B,AIPs,1,1
+Eubacterium_I ramulus_A,MGYG000002278-02697,agrB,Accessory gene regulator protein B,AIPs,1,1
+Eubacterium_R coprostanoligenes,MGYG000001569_00642,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Eubacterium_R coprostanoligenes,MGYG000001569-00555,agrB,Accessory gene regulator protein B,AIPs,1,1
+Extibacter hylemonae,MGYG000001710_01012,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Extibacter muris,MGYG000000165_02105,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Faecalibacillus faecis,MGYG000002444_00825,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Faecalibacillus faecis,MGYG000002444-01485,agrB,Accessory gene regulator protein B,AIPs,1,1
+Faecalibacillus intestinalis,MGYG000000045_00672,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Faecalibacterium prausnitzii,MGYG000001300_01392,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Faecalibacterium prausnitzii,MGYG000001300-01257,agrB,Accessory gene regulator protein B,AIPs,1,1
+Faecalicoccus pleomorphus,MGYG000004288_01372,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Faecalimonas phoceensis,MGYG000000148_00480,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Faecalimonas phoceensis,MGYG000000148-00914,agrB,Accessory gene regulator protein B,AIPs,1,1
+Faecalimonas umbilicata,MGYG000001439_00407,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Fannyhessea vaginae,MGYG000002972_00333,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ferdinandcohnia timonensis,MGYG000001405_03886,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Finegoldia magna,MGYG000004678_00552,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Finegoldia magna_F,MGYG000002821_01588,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Finegoldia magna_H,MGYG000001291_00783,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Flaviflexus massiliensis,MGYG000001509_01381,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Flavonifractor plautii,MGYG000000099-00897,agrB,Accessory gene regulator protein B,AIPs,1,1
+Fournierella massiliensis,MGYG000001527_02333,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Franconibacter helveticus,MGYG000003115_01737,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Franconibacter helveticus,MGYG000003115-01048,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Frisingicoccus caecimuris,MGYG000002974_01956,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Fusicatenibacter saccharivorans,MGYG000000251_01430,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Fusobacterium animalis,MGYG000001326_00952,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Fusobacterium massiliense,MGYG000001555_01483,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Fusobacterium periodonticum_B,MGYG000001350_01409,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Fusobacterium periodonticum_D,MGYG000001324_00716,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Fusobacterium polymorphum,MGYG000001464_00890,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Fusobacterium_A ulcerans_A,MGYG000002574-00518,agrB,Accessory gene regulator protein B,AIPs,1,1
+Gabonibacter massiliensis,MGYG000001529_01689,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Gemella morbillorum,MGYG000004562_00131,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Gemella sanguinis,MGYG000002986_01320,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Gemmiger variabilis,MGYG000001322_02083,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Gemmiger variabilis_A,MGYG000000573_00264,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Gemmiger variabilis_B,MGYG000004866_01503,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Gracilibacillus massiliensis,MGYG000001523_02903,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Gracilibacillus phocaeensis,MGYG000001549_02513,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Gracilibacillus phocaeensis,MGYG000001549-00354,agrB,Accessory gene regulator protein B,AIPs,1,1
+Granulicatella adiacens,MGYG000004316_01379,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Haemophilus influenzae,MGYG000003394_01749,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Haemophilus_A parahaemolyticus,MGYG000004687_00272,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Haemophilus_A paraphrohaemolyticus,MGYG000002551_00222,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Haemophilus_A sputorum,MGYG000001071_00905,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Haemophilus_D parainfluenzae,MGYG000000317_00507,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Haemophilus_D parainfluenzae,MGYG000003126_01569,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Haemophilus_D pittmaniae,MGYG000002898_01363,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Hafnia alvei,MGYG000002508_02317,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Hafnia alvei,MGYG000002508_00791,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Hafnia alvei,MGYG000002508-00073,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Hafnia paralvei,MGYG000001393_03639,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Hafnia paralvei,MGYG000001393_00800,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Hafnia paralvei,MGYG000001393-02944,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Holdemanella biformis,MGYG000001711_01444,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Holdemania massiliensis,MGYG000001430-01905,agrB,Accessory gene regulator protein B,AIPs,1,1
+Hungatella effluvii,MGYG000000032_05525,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Hungatella effluvii,MGYG000000032-01186,agrB,Accessory gene regulator protein B,AIPs,1,1
+Hungatella_A hathewayi_A,MGYG000001688_04404,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Hungatella_A hathewayi_A,MGYG000001688-01146,agrB,Accessory gene regulator protein B,AIPs,1,1
+Hydrogeniiclostridium mannosilyticum,MGYG000002416_00418,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Intestinibacter bartlettii,MGYG000000062_02614,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Intestinimonas butyriciproducens,MGYG000002340_00907,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Intestinimonas massiliensis,MGYG000001502_00996,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Klebsiella aerogenes,MGYG000002497_04196,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Klebsiella aerogenes,MGYG000002497-03265,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Klebsiella pneumoniae,MGYG000002538_03895,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Klebsiella pneumoniae,MGYG000002538-04905,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Klebsiella quasipneumoniae,MGYG000002510_03977,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Klebsiella quasipneumoniae,MGYG000002510-03271,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Klebsiella quasivariicola,MGYG000003178_02090,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Klebsiella quasivariicola,MGYG000003178-00195,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Klebsiella variicola,MGYG000002511_04250,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Klebsiella variicola,MGYG000002511-03274,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Klebsiella_A grimontii,MGYG000000093_02894,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Klebsiella_A grimontii,MGYG000000093-01422,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Klebsiella_A indica,MGYG000002825_03964,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Klebsiella_A indica,MGYG000002825-02453,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Klebsiella_A michiganensis,MGYG000002351_04488,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Klebsiella_A michiganensis,MGYG000002351-05599,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Klebsiella_A oxytoca,MGYG000000107_03211,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Klebsiella_A oxytoca,MGYG000000107-02484,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Kluyvera ascorbata,MGYG000003358_04246,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Kluyvera ascorbata,MGYG000003358-02588,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Kluyvera ascorbata_B,MGYG000002491_03055,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Kluyvera ascorbata_B,MGYG000002491-01057,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Kosakonia cowanii,MGYG000003883_03678,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Kosakonia cowanii,MGYG000003883-03414,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Kurthia senegalensis,MGYG000002309_01056,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lachnoanaerobaculum orale,MGYG000002638_01567,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lachnoanaerobaculum umeaense,MGYG000002522_00141,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lachnoclostridium phytofermentans_A,MGYG000003355_03246,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lachnoclostridium phytofermentans_A,MGYG000003355-00312,agrB,Accessory gene regulator protein B,AIPs,1,1
+Lachnoclostridium_A edouardi,MGYG000002417_01438,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lachnospira eligens_A,MGYG000000060_01134,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lachnospira eligens_A,MGYG000000060-01068,agrB,Accessory gene regulator protein B,AIPs,1,1
+Lachnospira rogosae_A,MGYG000000078_02279,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lachnospira rogosae_A,MGYG000000078-00751,agrB,Accessory gene regulator protein B,AIPs,1,1
+Lacticaseibacillus paracasei,MGYG000002388_00816,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lacticaseibacillus rhamnosus,MGYG000001293_00734,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lacticaseibacillus zeae,MGYG000002383_02264,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactiplantibacillus pentosus,MGYG000002787_01682,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactiplantibacillus plantarum,MGYG000002386_02662,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactiplantibacillus plantarum,MGYG000002386-03039,agrB,Accessory gene regulator protein B,AIPs,1,1
+Lactobacillus acidophilus,MGYG000002379_00682,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactobacillus amylovorus,MGYG000000161_01942,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactobacillus crispatus,MGYG000002348_00755,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactobacillus delbrueckii,MGYG000001369_00995,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactobacillus gallinarum,MGYG000003334_01488,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactobacillus gasseri,MGYG000003690_01132,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactobacillus helveticus,MGYG000002384_01789,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactobacillus johnsonii,MGYG000000008_01238,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactobacillus kalixensis,MGYG000002956_00748,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactobacillus paragasseri,MGYG000002387_01225,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactobacillus porci,MGYG000000916_00724,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactobacillus ultunensis,MGYG000001335_02040,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactococcus garvieae,MGYG000000582_01116,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactococcus garvieae_B,MGYG000001017_00709,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactococcus hircilactis,MGYG000003404_00921,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactococcus lactis,MGYG000000226_01334,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactococcus lactis_E,MGYG000000771_00118,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactococcus petauri,MGYG000000230_00615,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactococcus_A piscium_C,MGYG000002997_00518,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactococcus_A raffinolactis,MGYG000000681_01124,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactonifactor longoviformis,MGYG000002475_04155,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lactonifactor longoviformis,MGYG000002475-03868,agrB,Accessory gene regulator protein B,AIPs,1,1
+Lancefieldella rimae,MGYG000001214_00911,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Latilactobacillus sakei,MGYG000002389-01538,agrB,Accessory gene regulator protein B,AIPs,1,1
+Leclercia adecarboxylata_C,MGYG000003187_02581,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Leclercia adecarboxylata_C,MGYG000003187-03274,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Leminorella grimontii,MGYG000002305_00344,anoI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Leminorella grimontii,MGYG000002305_01360,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Leminorella richardii,MGYG000002385_01578,anoI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Leminorella richardii,MGYG000002385_01041,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lentilactobacillus buchneri,MGYG000003317_01760,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lentilactobacillus kefiri,MGYG000002472_01123,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lentilactobacillus parabuchneri,MGYG000000330_01282,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Lentilactobacillus parafarraginis,MGYG000002542_02847,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Leptotrichia wadei_A,MGYG000002635_00931,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Leuconostoc citreum,MGYG000003405_00446,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Leuconostoc lactis,MGYG000004652_01593,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Leuconostoc mesenteroides,MGYG000001341_00292,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Leuconostoc pseudomesenteroides,MGYG000000096_02131,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Levilactobacillus brevis,MGYG000002380_01192,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Levilactobacillus namurensis,MGYG000004860_00542,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ligilactobacillus agilis,MGYG000002390_01153,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ligilactobacillus animalis,MGYG000000097_00401,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ligilactobacillus murinus,MGYG000000009_00068,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ligilactobacillus ruminis,MGYG000001334_01637,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ligilactobacillus salivarius,MGYG000002324_01190,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Limosilactobacillus caviae,MGYG000004287_00537,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Limosilactobacillus fermentum,MGYG000000166_00893,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Limosilactobacillus ingluviei,MGYG000004819_00684,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Limosilactobacillus mucosae,MGYG000002319_02152,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Limosilactobacillus reuteri_E,MGYG000001336_00752,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Listeria grayi,MGYG000001298_00605,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Listeria grayi,MGYG000001298-01324,agrB,Accessory gene regulator protein B,AIPs,1,1
+Listeria innocua,MGYG000001395_01894,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Listeria innocua,MGYG000001395-02612,agrB,Accessory gene regulator protein B,AIPs,1,1
+Listeria monocytogenes,MGYG000002392_00512,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Listeria monocytogenes,MGYG000002392-01750,agrB,Accessory gene regulator protein B,AIPs,1,1
+Listeria monocytogenes_B,MGYG000002325_01403,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Listeria monocytogenes_B,MGYG000002325-00054,agrB,Accessory gene regulator protein B,AIPs,1,1
+Loigolactobacillus coryniformis,MGYG000003710_00480,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Longibaculum muris,MGYG000000134_00824,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Longibaculum muris,MGYG000000134-02800,agrB,Accessory gene regulator protein B,AIPs,1,1
+Longicatena caecimuris,MGYG000001398_02811,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Longicatena caecimuris,MGYG000001398-00814,agrB,Accessory gene regulator protein B,AIPs,1,1
+Massilibacterium senegalense,MGYG000001511_01860,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Massilicoli timonensis,MGYG000001177_01497,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Massilimaliae timonensis,MGYG000000034_01783,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Massilioclostridium coli,MGYG000001560_01952,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Massilioclostridium coli,MGYG000001560-01723,agrB,Accessory gene regulator protein B,AIPs,1,1
+Massilistercora timonensis,MGYG000002202_01033,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Mediterraneibacter faecis,MGYG000000249_00087,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Mediterraneibacter lactaris,MGYG000001310_01662,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Mediterraneibacter massiliensis,MGYG000001528_02237,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Mediterraneibacter torques,MGYG000001374_01802,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Mediterraneibacter_A butyricigenes,MGYG000000164_00850,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Merdimonas faecis,MGYG000002393_01790,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Merdimonas faecis,MGYG000002393-03229,agrB,Accessory gene regulator protein B,AIPs,1,1
+Mixta calida,MGYG000003184_00643,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Mixta calida,MGYG000003184_03729,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Moellerella wisconsensis,MGYG000002354_02770,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Monoglobus pectinilyticus,MGYG000002424_02208,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Monoglobus pectinilyticus,MGYG000002424-01696,agrB,Accessory gene regulator protein B,AIPs,1,1
+Morganella morganii,MGYG000002512_02930,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Morganella morganii_A,MGYG000002513_01527,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Morganella morganii_B,MGYG000000337_01311,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Muribaculum intestinale,MGYG000000055_01000,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Muricomes contortus_B,MGYG000001499_04426,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Muricomes fissicatena_A,MGYG000001368_04053,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Muricomes oroticus,MGYG000000176_03613,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Murimonas intestini,MGYG000000135_02767,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Murimonas intestini,MGYG000000135-02907,agrB,Accessory gene regulator protein B,AIPs,1,1
+Negativibacillus massiliensis,MGYG000002625_00072,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Negativibacillus massiliensis,MGYG000002625-01315,agrB,Accessory gene regulator protein B,AIPs,1,1
+Neisseria elongata,MGYG000002119_00987,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Neisseria gonorrhoeae,MGYG000002489_00995,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Neisseria macacae,MGYG000001381_01917,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Neisseria subflava_C,MGYG000003388_01446,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Neobacillus jeddahensis,MGYG000001469_01436,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Neobacillus rubiinfantis,MGYG000001475_03639,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Neobittarella massiliensis,MGYG000002546_01213,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Neobittarella massiliensis,MGYG000002546-02214,agrB,Accessory gene regulator protein B,AIPs,1,1
+Neofamilia massiliensis,MGYG000001506-00376,agrB,Accessory gene regulator protein B,AIPs,1,1
+Oceanobacillus caeni,MGYG000002391_01745,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Oceanobacillus jeddahense,MGYG000001472_03309,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Oceanobacillus massiliensis,MGYG000001403_01766,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Odoribacter laneus,MGYG000001399_01289,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Odoribacter massiliensis,MGYG000001551_01317,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Oribacterium sinus,MGYG000003009_00733,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Oribacterium sinus,MGYG000003013_01564,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Paenibacillus amylolyticus,MGYG000003072-02149,agrB,Accessory gene regulator protein B,AIPs,1,1
+Paenibacillus ihuae,MGYG000001507-03524,agrB,Accessory gene regulator protein B,AIPs,1,1
+Paenibacillus lautus_A,MGYG000001371-05943,agrB,Accessory gene regulator protein B,AIPs,1,1
+Paenibacillus odorifer,MGYG000002414-04241,agrB,Accessory gene regulator protein B,AIPs,1,1
+Paenibacillus polymyxa,MGYG000003687_03162,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Paenibacillus polymyxa,MGYG000003687-04156,agrB,Accessory gene regulator protein B,AIPs,1,1
+Paenibacillus_A ihumii,MGYG000001514-03243,agrB,Accessory gene regulator protein B,AIPs,1,1
+Paenibacillus_A tuaregi,MGYG000001548-03447,agrB,Accessory gene regulator protein B,AIPs,1,1
+Pantoea agglomerans,MGYG000003382_03209,anoI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Pantoea agglomerans,MGYG000003382_03740,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Pantoea ananatis,MGYG000003393_03049,anoI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Pantoea ananatis,MGYG000003393_04025,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Pantoea ananatis,MGYG000003393_01964,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pantoea anthophila,MGYG000003379_01105,anoI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Pantoea anthophila,MGYG000003379_03466,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pantoea brenneri,MGYG000003386_00992,anoI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Pantoea brenneri,MGYG000003386_04416,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pantoea conspicua,MGYG000003803_03696,anoI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Pantoea conspicua,MGYG000003803_00615,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pantoea septica,MGYG000002423_03569,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Paraclostridium bifermentans,MGYG000000024-00075,agrB,Accessory gene regulator protein B,AIPs,1,1
+Paraclostridium sordellii,MGYG000000157-00112,agrB,Accessory gene regulator protein B,AIPs,1,1
+Paraclostridium tenue,MGYG000000075-00077,agrB,Accessory gene regulator protein B,AIPs,1,1
+Paraprevotella clara,MGYG000002540_01477,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Paraprevotella xylaniphila,MGYG000001372_02296,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Parolsenella catena,MGYG000003298_00395,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Parolsenella massiliensis,MGYG000000614_00004,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Parolsenella uli_B,MGYG000000620_01898,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pauljensenia bouchesdurhonensis,MGYG000004268_00525,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pauljensenia cardiffensis,MGYG000004566_00036,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pauljensenia culturomici,MGYG000003808_01236,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pauljensenia polynesiensis,MGYG000001480_00225,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pauljensenia radingae_A,MGYG000001522_00450,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pauljensenia turicensis,MGYG000000571_00081,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pediococcus acidilactici,MGYG000001296_01102,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pediococcus pentosaceus,MGYG000002367_01714,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Peptacetobacter hiranonis,MGYG000001320_00163,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Peptostreptococcus russellii,MGYG000001618_01021,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Peribacillus simplex,MGYG000000083_02318,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phocaeicola barnesiae,MGYG000003094_00966,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phocaeicola coprocola,MGYG000001306_03283,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phocaeicola coprophilus,MGYG000000273_01389,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phocaeicola ilei,MGYG000001750_01348,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phocaeicola massiliensis,MGYG000000243_02967,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phocaeicola mediterraneensis,MGYG000004479_01483,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phocaeicola plebeius,MGYG000001364_02791,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phocaeicola plebeius_A,MGYG000003693_00106,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phocaeicola salanitronis,MGYG000000964_01299,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phocaeicola sartorii,MGYG000004797_04260,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phocea massiliensis,MGYG000001611-01842,agrB,Accessory gene regulator protein B,AIPs,1,1
+Phoenicibacter congonensis,MGYG000002419_00895,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phytobacter diazotrophicus,MGYG000002904_03346,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phytobacter diazotrophicus,MGYG000002904-02658,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Phytobacter massiliensis,MGYG000001426_02621,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phytobacter massiliensis,MGYG000001426-03534,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Phytobacter ursingii,MGYG000002521_01035,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Phytobacter ursingii,MGYG000002521-05360,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Planococcus massiliensis,MGYG000001482_00763,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Plesiomonas shigelloides,MGYG000002536_02027,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Plesiomonas shigelloides,MGYG000002536-02233,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Pluralibacter gergoviae,MGYG000002520_04719,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pluralibacter gergoviae,MGYG000002520-00963,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Porphyromonas asaccharolytica,MGYG000004267_00630,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Porphyromonas endodontalis,MGYG000002015_00274,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Porphyromonas gingivalis,MGYG000003300_00774,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Porphyromonas uenonis,MGYG000003790_00440,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Porphyromonas uenonis_A,MGYG000001209_00176,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella amnii,MGYG000003731_00110,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella bergensis,MGYG000003765_01070,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella bivia,MGYG000003374_01742,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella brunnea,MGYG000003763_00197,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella buccae,MGYG000000289_00962,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella buccalis,MGYG000003742_01245,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella colorans,MGYG000003812_00034,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella copri,MGYG000003697_00158,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella corporis,MGYG000003353_00158,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella denticola,MGYG000003152_01998,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella disiens,MGYG000003691_00058,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella hominis,MGYG000000272_01153,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella intermedia,MGYG000004629_00244,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella jejuni,MGYG000002637_00214,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella lascolaii,MGYG000001164_00495,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella melaninogenica,MGYG000003287_00901,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella multisaccharivorax,MGYG000003893_01723,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella nigrescens,MGYG000004627_01633,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella oralis,MGYG000001447_01577,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella oris,MGYG000003878_01728,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella pectinovora,MGYG000001097_02350,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella rara,MGYG000002394_00215,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella salivae,MGYG000001360_01140,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella stercorea,MGYG000000215_00973,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella timonensis,MGYG000003794_00037,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotella veroralis,MGYG000002636_01078,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Prevotellamassilia timonensis,MGYG000002412_00800,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Propionibacterium freudenreichii,MGYG000002401_01025,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Proteus cibarius,MGYG000001624_03053,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Proteus cibarius,MGYG000001624-00807,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Proteus mirabilis,MGYG000002514_03186,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Proteus mirabilis,MGYG000002514-02327,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Proteus penneri,MGYG000002488_01735,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Proteus penneri,MGYG000002488-01204,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Proteus vulgaris,MGYG000002516-03068,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Providencia alcalifaciens,MGYG000001466_01572,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Providencia alcalifaciens,MGYG000001466-00499,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Providencia rettgeri,MGYG000004295_00003,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Providencia rettgeri,MGYG000004295-01671,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Providencia rustigianii,MGYG000001708_00436,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Providencia rustigianii,MGYG000001708-00034,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Providencia stuartii,MGYG000001307_00888,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Providencia stuartii,MGYG000001307-01165,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Pseudescherichia vulneris,MGYG000003390_01324,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pseudescherichia vulneris,MGYG000003390-00616,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Pseudobutyrivibrio fibrisolvens_A,MGYG000002531_00443,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pseudomonas aeruginosa,MGYG000002463_02579,anoI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Pseudomonas aeruginosa,MGYG000002463_05430,lasI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Pseudomonas aeruginosa,"MGYG000002463-01332,MGYG000002463-01333,MGYG000002463-01334,MGYG000002463-01335,MGYG000002463-01336,MGYG000002463_02303","PqsA,PqsB,PqsC,PqsD,PqsH,PqsE",,PQS,"1,2,3,4,5,6","1,1,1,1,1,1"
+Pseudomonas_B luteola,MGYG000001457_03703,anoI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Pseudoruminococcus massiliensis,MGYG000000036_00940,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Pseudoruminococcus massiliensis,MGYG000000036-01070,agrB,Accessory gene regulator protein B,AIPs,1,1
+Pygmaiobacter massiliensis,MGYG000000319_01035,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Rahnella variigena,MGYG000002474_00880,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Rahnella variigena,MGYG000002474_03106,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Rahnella variigena,MGYG000002474-02508,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Raoultella ornithinolytica,MGYG000002363_03599,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Raoultella ornithinolytica,MGYG000002363-04752,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Robertmurraya massiliosenegalensis,MGYG000001412_02574,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Robinsoniella peoriensis,MGYG000002403_01939,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Robinsoniella peoriensis,MGYG000002403-00600,agrB,Accessory gene regulator protein B,AIPs,1,1
+Romboutsia dakarensis,MGYG000001460_03216,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Romboutsia dakarensis,MGYG000001460-00178,agrB,Accessory gene regulator protein B,AIPs,1,1
+Romboutsia timonensis,MGYG000002563_00076,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Romboutsia timonensis,MGYG000002563-00784,agrB,Accessory gene regulator protein B,AIPs,1,1
+Roseburia hominis,MGYG000002517_00991,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Roseburia hominis,MGYG000002517-03197,agrB,Accessory gene regulator protein B,AIPs,1,1
+Roseburia intestinalis,MGYG000000076_00442,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Roseburia intestinalis,MGYG000000076-02702,agrB,Accessory gene regulator protein B,AIPs,1,1
+Rothia aeria,MGYG000003000_00474,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Rothia dentocariosa,MGYG000002999_00549,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Rothia mucilaginosa,MGYG000000307_00614,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Rothia mucilaginosa_A,MGYG000003124_00776,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Rothia mucilaginosa_B,MGYG000001268_01216,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Rothia mucilaginosa_B,MGYG000004883_01580,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Rothia terrae,MGYG000000326_00469,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Rubeoparvulum massiliense,MGYG000001491-01813,agrB,Accessory gene regulator protein B,AIPs,1,1
+Ruminiclostridium_E siraeum,MGYG000002530-01681,agrB,Accessory gene regulator protein B,AIPs,1,1
+Ruminococcus_A faecicola,MGYG000004296_01296,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ruminococcus_B gnavus,MGYG000001380_00931,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ruminococcus_C callidus,MGYG000002295_00223,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ruminococcus_C callidus,MGYG000002295-01743,agrB,Accessory gene regulator protein B,AIPs,1,1
+Ruminococcus_D bicirculans,MGYG000002321-00148,agrB,Accessory gene regulator protein B,AIPs,1,1
+Ruminococcus_E bromii,MGYG000002482_00110,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ruminococcus_E bromii,MGYG000002482-00654,agrB,Accessory gene regulator protein B,AIPs,1,1
+Ruminococcus_E bromii_A,MGYG000004520_00841,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ruminococcus_E bromii_A,MGYG000004520-00421,agrB,Accessory gene regulator protein B,AIPs,1,1
+Ruminococcus_E bromii_B,MGYG000000258_00437,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ruminococcus_F champanellensis,MGYG000001375_01432,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ruminococcus_G gauvreauii,MGYG000001690_03000,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ruthenibacterium lactatiformans,MGYG000003682_00610,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ruthenibacterium lactatiformans,MGYG000003682-02321,agrB,Accessory gene regulator protein B,AIPs,1,1
+Salinicola tamaricis,MGYG000003016_00030,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Salmonella bongori,MGYG000002496_03561,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Salmonella bongori,MGYG000002496-00250,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Salmonella enterica,MGYG000002366_01053,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Salmonella enterica,MGYG000002366-00180,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Schleiferilactobacillus harbinensis,MGYG000002774_02798,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Sellimonas intestinalis,MGYG000000159_00298,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Sellimonas intestinalis,MGYG000000159-01999,agrB,Accessory gene regulator protein B,AIPs,1,1
+Senegalimassilia anaerobia,MGYG000001387_01082,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Senegalimassilia faecalis,MGYG000000611_01782,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Serratia liquefaciens,MGYG000003712_03972,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Serratia liquefaciens,MGYG000003712_02952,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Serratia liquefaciens,MGYG000003712-00710,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Serratia marcescens_I,MGYG000002350_01629,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Serratia marcescens_I,MGYG000002350-01859,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Serratia surfactantfaciens,MGYG000002518_04175,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Serratia surfactantfaciens,MGYG000002518-00057,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Serratia surfactantfaciens,MGYG000002518_02151,cqsA,CAI-1 autoinducer synthase,CAI-1,1,1
+Serratia ureilytica,MGYG000003399_01362,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Serratia ureilytica,MGYG000003399_04646,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Serratia ureilytica,MGYG000003399-02601,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Slackia exigua,MGYG000002910_00227,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Slackia_A isoflavoniconvertens,MGYG000002509_00300,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Slackia_A piriformis,MGYG000001409_01426,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Sodaliphilus pleomorphus,MGYG000003233_00641,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Staphylococcus argenteus,MGYG000002548_01483,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Staphylococcus argenteus,MGYG000002548-02036,agrB,Accessory gene regulator protein B,AIPs,1,1
+Staphylococcus aureus,MGYG000002337_01994,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Staphylococcus aureus,MGYG000002337-01892,agrB,Accessory gene regulator protein B,AIPs,1,1
+Staphylococcus capitis,MGYG000003401_00703,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Staphylococcus capitis,MGYG000003401-00922,agrB,Accessory gene regulator protein B,AIPs,1,1
+Staphylococcus epidermidis,MGYG000000122_01867,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Staphylococcus epidermidis,MGYG000000122-01568,agrB,Accessory gene regulator protein B,AIPs,1,1
+Staphylococcus haemolyticus,MGYG000002338_02278,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Staphylococcus haemolyticus,MGYG000002338-01423,agrB,Accessory gene regulator protein B,AIPs,1,1
+Staphylococcus hominis,MGYG000002399-01915,agrB,Accessory gene regulator protein B,AIPs,1,1
+Staphylococcus lugdunensis,MGYG000002400_00026,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Staphylococcus lugdunensis,MGYG000002400-01382,agrB,Accessory gene regulator protein B,AIPs,1,1
+Staphylococcus nepalensis,MGYG000000025_02291,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Staphylococcus nepalensis,MGYG000000025-01967,agrB,Accessory gene regulator protein B,AIPs,1,1
+Staphylococcus schleiferi,MGYG000001437_02216,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Staphylococcus schleiferi,MGYG000001437-01348,agrB,Accessory gene regulator protein B,AIPs,1,1
+Staphylococcus warneri,MGYG000002301_02179,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Staphylococcus warneri,MGYG000002301-02398,agrB,Accessory gene regulator protein B,AIPs,1,1
+Staphylococcus xylosus,MGYG000000006_01886,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Staphylococcus xylosus,MGYG000000006-01376,agrB,Accessory gene regulator protein B,AIPs,1,1
+Staphylococcus_A lentus,MGYG000000010_01960,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Staphylococcus_A lentus,MGYG000000010-02180,agrB,Accessory gene regulator protein B,AIPs,1,1
+Stomatobaculum longum,MGYG000003001_00409,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Stomatobaculum naviforme,MGYG000003786_01411,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Stoquefichus massiliensis,MGYG000001452_01855,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus agalactiae,MGYG000002349_00272,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus alactolyticus,MGYG000003357_00172,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus anginosus,MGYG000001362_01041,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus anginosus_C,MGYG000002347_01008,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus constellatus,MGYG000004321_00315,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus equinus,MGYG000001363_01447,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus gordonii,MGYG000001342_01609,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus infantarius,MGYG000001308_01859,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus infantis_I,MGYG000000318_00441,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus koreensis,MGYG000002296_01735,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus lutetiensis,MGYG000000088_00985,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus mitis,MGYG000003392_00599,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus mutans,MGYG000000277_00389,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus oralis,MGYG000002890_00798,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus parasanguinis,MGYG000000023_01902,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus pasteurianus,MGYG000000246_00861,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus salivarius,MGYG000000113_01610,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus sobrinus,MGYG000004770_01512,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus thermophilus,MGYG000004345_01658,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus timonensis,MGYG000001558_00205,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus vestibularis,MGYG000000580_01605,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Streptococcus vestibularis,MGYG000002302_00415,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Succinatimonas hippei,MGYG000001366_01386,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Terrisporobacter othiniensis,MGYG000001623_01711,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Timonella senegalensis,MGYG000001419_02788,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Turicibacter sanguinis,MGYG000000143_00222,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ureibacillus endophyticus,MGYG000004541_02527,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Ureibacillus endophyticus,MGYG000004541-03279,agrB,Accessory gene regulator protein B,AIPs,1,1
+Vagococcus teuberi,MGYG000000234_01398,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Varibaculum cambriense,MGYG000002897_00045,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Varibaculum massiliense,MGYG000003756_00486,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Varibaculum timonense,MGYG000001014_01000,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Vibrio cholerae,MGYG000002311_00164,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Vibrio cholerae,MGYG000002311_02769,cqsA,CAI-1 autoinducer synthase,CAI-1,1,1
+Vibrio fluvialis,MGYG000001703_02641,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Vibrio fluvialis,MGYG000001703_02885,cqsA,CAI-1 autoinducer synthase,CAI-1,1,1
+Vibrio furnissii,MGYG000001713_02998,lasI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Vibrio furnissii,MGYG000001713_00096,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Vibrio furnissii,MGYG000001713_03530,cqsA,CAI-1 autoinducer synthase,CAI-1,1,1
+Vibrio metoecus,MGYG000002368_02695,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Vibrio metoecus,MGYG000002368_00657,cqsA,CAI-1 autoinducer synthase,CAI-1,1,1
+Vibrio parahaemolyticus,MGYG000002331_02752,luxM,Acyl-homoserine-lactone synthase LuxM,AHLs,1,1
+Vibrio parahaemolyticus,MGYG000002331_02208,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Vibrio parahaemolyticus,MGYG000002331_00741,cqsA,CAI-1 autoinducer synthase,CAI-1,1,1
+Vibrio vulnificus,MGYG000002533_00921,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Virgibacillus kapii,MGYG000001470_03027,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Virgibacillus picturae,MGYG000001702_01221,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Weissella cibaria,MGYG000000248_00721,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Weissella confusa,MGYG000000155_01893,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Weissella paramesenteroides,MGYG000001340_01024,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Weizmannia coagulans,MGYG000000191_00725,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Yersinia aleksiciae,MGYG000002458_01958,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Yersinia aleksiciae,MGYG000002458_04012,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Yersinia aleksiciae,MGYG000002458-02518,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Yersinia bercovieri,MGYG000002524_00404,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Yersinia bercovieri,MGYG000002524_03737,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Yersinia bercovieri,MGYG000002524-03391,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Yersinia enterocolitica,MGYG000002335_02535,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Yersinia enterocolitica,MGYG000002335_00925,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Yersinia enterocolitica,MGYG000002335-00080,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Yersinia frederiksenii,MGYG000002466_01054,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Yersinia frederiksenii,MGYG000002466_00593,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Yersinia frederiksenii,MGYG000002466-03741,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Yersinia intermedia,MGYG000002525_02323,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Yersinia intermedia,MGYG000002525_00829,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Yersinia intermedia,MGYG000002525-03914,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Yersinia kristensenii,MGYG000002461_01938,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Yersinia kristensenii,MGYG000002461-03693,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Yersinia massiliensis,MGYG000002465_00870,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Yersinia massiliensis,MGYG000002465_04174,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Yersinia massiliensis,MGYG000002465-01355,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Yersinia mollaretii,MGYG000002471_00626,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Yersinia mollaretii,MGYG000002471_01129,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Yersinia mollaretii,MGYG000002471-03691,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Yersinia pestis,MGYG000002476_00958,esaI,Acyl-homoserine-lactone synthase,AHLs,1,1
+Yersinia pestis,MGYG000002476_03409,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Yersinia pestis,MGYG000002476-00314,tdh,L-threonine 3-dehydrogenase,AI-3,1,1
+Yokenella regensburgei,MGYG000001394_00738,luxS,S-ribosylhomocysteine lyase,AI-2,1,1
+Yokenella regensburgei,MGYG000001394-01165,tdh,L-threonine 3-dehydrogenase,AI-3,1,1

@@ -1,0 +1,702 @@
+target_species,target_UHGG_genename,target_gene,target_product,target_system,target_complex,target_complex_number
+Acetomicrobium hydrogeniformans,MGYG000001339_00687,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Actinomyces urogenitalis,MGYG000002900_01509,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Adlercreutzia celatus_A,MGYG000002480_01110,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Aeromicrobium massiliense,"MGYG000001418_01735,MGYG000001418_01734","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Aeromonas caviae,MGYG000002527_00048,luxR,HTH-type transcriptional regulator LuxR,AHLs,1,1
+Aeromonas caviae,MGYG000002527_03054,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Aeromonas dhakensis,MGYG000001692_02442,luxR,Transcriptional activator protein LuxR,AHLs,1,1
+Aeromonas dhakensis,MGYG000001692_01230,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Aeromonas hydrophila,MGYG000002526_00864,luxR,HTH-type transcriptional regulator LuxR,AHLs,1,1
+Aeromonas hydrophila,MGYG000002526_02319,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Aeromonas rivipollensis,MGYG000003144_00067,luxR,Transcriptional activator protein LuxR,AHLs,1,1
+Aeromonas rivipollensis,MGYG000003144_01129,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Aeromonas veronii,MGYG000002529_01370,luxR,HTH-type transcriptional regulator LuxR,AHLs,1,1
+Aeromonas veronii,MGYG000002529_02712,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Aeromonas veronii_A,MGYG000001691_00903,luxR,Transcriptional activator protein LuxR,AHLs,1,1
+Aeromonas veronii_A,MGYG000001691_02860,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Agathobaculum butyriciproducens,MGYG000000185_00139,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Allisonella histaminiformans,MGYG000002990_01001,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Allisonella pneumosintes,MGYG000001613_00830,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Amedibacterium intestinale,MGYG000000240_01510,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerobutyricum hallii,MGYG000000262_00801,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerobutyricum soehngenii,MGYG000000077_00932,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Anaerococcus hydrogenalis,MGYG000001355_01717,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerococcus jeddahensis,MGYG000001495_00205,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerococcus jeddahensis,MGYG000001495_01582,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Anaerococcus lactolyticus,MGYG000003780_00014,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerococcus obesiensis,MGYG000002316_01972,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerococcus octavius,MGYG000003129_01002,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerococcus octavius,MGYG000003129_01460,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Anaerococcus prevotii,MGYG000002892_00358,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerococcus prevotii_A,MGYG000002815_01571,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerococcus senegalensis,MGYG000001424_01708,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerocolumna aminovalerica,"MGYG000002836_00584,MGYG000002836_00587,MGYG000002836_00585,MGYG000002836_00586","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Anaerosalibacter massiliensis,MGYG000001473_01332,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerostipes hadrus,MGYG000002528_02148,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerostipes hadrus_A,MGYG000000028_00517,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Anaerotruncus colihominis,"MGYG000000004_00322,MGYG000000004_00325,MGYG000000004_00323,MGYG000000004_00324","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Anaerotruncus massiliensis,MGYG000004618_00335,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Aneurinibacillus aneurinilyticus,MGYG000001453_04726,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Arachnia massiliensis,MGYG000001483_00845,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Atlantibacter hermannii,"MGYG000001266_03370,MGYG000001266_00716,MGYG000001266_03369,MGYG000001266_00713","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Bacilliculturomica massiliensis,MGYG000000103_01431,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Bacillus licheniformis,MGYG000002357_03835,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Bacillus licheniformis,"MGYG000002357_03353,MGYG000002357_03354","comA,comP",Transcriptional regulatory protein ComA,AIPs,"1,2","1,1"
+Bacillus licheniformis,MGYG000002357_01590,rapA,Response regulator aspartate phosphatase A,AIPs,1,1
+Bacillus paralicheniformis,MGYG000000147_01428,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Bacillus paralicheniformis,"MGYG000000147_01235,MGYG000000147_03552","comA,comP",Transcriptional regulatory protein ComA,AIPs,"1,2","1,1"
+Bacillus paralicheniformis,MGYG000000147_00856,rapA,Response regulator aspartate phosphatase A,AIPs,1,1
+Bacillus sonorensis,MGYG000000227_01350,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Bacillus sonorensis,"MGYG000000227_03221,MGYG000000227_03220","comA,comP",Transcriptional regulatory protein ComA,AIPs,"1,2","1,1"
+Bacillus subtilis,MGYG000000012_01606,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Bacillus subtilis,"MGYG000000012_01154,MGYG000000012_01155","comA,comP",Transcriptional regulatory protein ComA,AIPs,1,1
+Bacillus subtilis,MGYG000000012_00459,rapA,Response regulator aspartate phosphatase A,AIPs,1,1
+Bacillus_A luti,"MGYG000002288_02635,MGYG000002288_03723,MGYG000002288_03721,MGYG000002288_03722","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Bacillus_A paranthracis,"MGYG000002283_01787,MGYG000002283_01784,MGYG000002283_01786,MGYG000002283_01785","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Bacillus_A paranthracis,"MGYG000002283_00097,MGYG000002283_00096","comA,comP",Transcriptional regulatory protein ComA,AIPs,"1,2","1,1"
+Bacillus_A thuringiensis_S,"MGYG000001712_02949,MGYG000001712_02946,MGYG000001712_02948,MGYG000001712_02947","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Bacillus_A thuringiensis_S,"MGYG000001712_00863,MGYG000001712_00862","comA,comP",Transcriptional regulatory protein ComA,AIPs,"1,2","1,1"
+Bacillus_A wiedmannii,MGYG000002356_00769,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Bacteroides cutis,MGYG000002300_01625,luxN,Autoinducer 1 sensor kinase/phosphatase LuxN,HAI-1,1,1
+Bacteroides eggerthii,MGYG000001313_03252,luxN,Autoinducer 1 sensor kinase/phosphatase LuxN,HAI-1,1,1
+Bacteroides fluxus,MGYG000001370_03313,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Bacteroides stercorirosoris,MGYG000002273_05208,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Bariatricus comes,MGYG000001315_02203,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Bariatricus massiliensis,"MGYG000002945_03255,MGYG000002945_03227","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Bifidobacterium breve,MGYG000002469_01532,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Bifidobacterium catenulatum,MGYG000001490_00040,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Bifidobacterium dentium,MGYG000001354_00563,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Bifidobacterium vaginale_G,MGYG000001287_00351,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Blautia stercoris,MGYG000002286_01218,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Blautia stercoris,MGYG000002286_00728,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Blautia_A caecimuris,MGYG000000133_00214,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Blautia_A faecis,"MGYG000000002_00324,MGYG000000002_00323","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Blautia_A hydrogenotrophica,MGYG000000035_02114,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Blautia_A massiliensis,MGYG000000142_00725,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Blautia_A obeum,MGYG000000212_00941,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Blautia_A obeum_B,"MGYG000000252_01975,MGYG000000252_01921","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Blautia_A obeum_B,MGYG000000252_00733,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Blautia_A wexlerae_A,MGYG000001338_00326,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Blautia_A wexlerae_A,MGYG000001338_02282,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Blautia_A wexlerae_B,MGYG000004785_01725,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Brachyspira pilosicoli,MGYG000000470_00398,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Brevibacillus_C massiliensis,"MGYG000002314_00832,MGYG000002314_00833","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Brevibacillus_C massiliensis,MGYG000002314_00465,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Butyricicoccus pullicaecorum,MGYG000001434_00766,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+CAG-81 sp900541255,MGYG000001199_03336,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Campylobacter_B ureolyticus,MGYG000002543_01483,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Cardiobacterium valvarum,MGYG000002541_00991,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Cedecea davisae,MGYG000001445_03223,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Cetobacterium_A somerae,MGYG000001458_02637,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Chimaeribacter arupi,"MGYG000003378_01489,MGYG000003378_01492","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Chimaeribacter coloradensis,"MGYG000003123_00779,MGYG000003123_00776","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Christensenella hongkongensis,"MGYG000001593_00144,MGYG000001593_01175,MGYG000001593_00367",lsrB£¬lsrC£¬lsrD,Autoinducer 2-binding protein LsrB,AI-2,"1,2,3","1,1,1"
+Christensenella minuta,"MGYG000002523_01130,MGYG000002523_00194",lsrB£¬lsrD,Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Christensenella timonensis,"MGYG000001550_00141,MGYG000001550_01268",lsrB£¬lsrD,Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Chryseobacterium gambrini,MGYG000001095_01531,comP,Sensor histidine kinase ComP,AIPs,1,1
+Chryseobacterium gambrini,MGYG000001095_01997,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Citrobacter braakii,"MGYG000002816_03278,MGYG000002816_03275",lsrB£¬lsrD,Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Citrobacter europaeus,"MGYG000002495_02407,MGYG000002495_02404",lsrB£¬lsrD,Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Citrobacter freundii,"MGYG000000108_04112,MGYG000000108_04115","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Citrobacter gillenii,"MGYG000002535_01010,MGYG000002535_01007","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Citrobacter portucalensis,"MGYG000001705_01319,MGYG000001705_01316","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Citrobacter werkmanii,"MGYG000003372_01225,MGYG000003372_01228","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Citrobacter youngae,"MGYG000000124_02205,MGYG000000124_02208","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Citrobacter_A amalonaticus,MGYG000002477_00674,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Citrobacter_A farmeri,MGYG000002534_00463,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Citrobacter_A sedlakii,"MGYG000001700_03585,MGYG000001700_03588","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Citrobacter_B koseri,MGYG000002494_02423,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Cloacibacillus evryensis,MGYG000001389_02063,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Cloacibacillus porcorum,MGYG000001609_01334,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Clostridioides difficile,MGYG000002369_00285,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridioides difficile_A,MGYG000002370_00386,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium baratii,MGYG000000064_00972,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium beijerinckii,MGYG000004667_00091,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium butyricum,MGYG000000014_01189,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium celatum,MGYG000001423_01934,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium neonatale,MGYG000000902_00628,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium nigeriense,MGYG000000915_01054,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Clostridium septicum,MGYG000002373_02340,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium tertium,MGYG000001328_02711,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium_E jeddahense,"MGYG000001467_03097,MGYG000001467_03094,MGYG000001467_03096,MGYG000001467_03095","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Clostridium_E merdae,"MGYG000002420_02617,MGYG000002420_02614,MGYG000002420_02616,MGYG000002420_02615","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Clostridium_E sporosphaeroides,"MGYG000000295_01852,MGYG000000295_01855,MGYG000000295_01853,MGYG000000295_01854","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Clostridium_F botulinum,MGYG000002355_00991,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Clostridium_F botulinum_A,MGYG000001309_01174,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Clostridium_G cochlearium,MGYG000003139_00431,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium_G tetani,MGYG000002375_00044,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium_H massiliodielmoense,MGYG000002402_00367,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium_P perfringens,MGYG000002372_01994,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium_Q saccharolyticum_A,MGYG000002483_02790,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium_Q sp000435655,MGYG000003074_00984,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium_Q sp003024715,MGYG000002445_02728,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Clostridium_Q sp900547735,MGYG000001617_01560,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Clostridium_Q symbiosum,MGYG000001367_02926,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Collinsella aerofaciens_F,MGYG000004141_01064,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Collinsella aerofaciens_K,MGYG000001096_01735,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Collinsella vaginalis,MGYG000000313_01035,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Comamonas kerstersii,MGYG000004150_02966,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Coprococcus eutactus,MGYG000000018_01678,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Coprococcus eutactus_A,MGYG000000231_02424,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Coprococcus_A catus,MGYG000001714_02977,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Corynebacterium ammoniagenes,MGYG000001533_00738,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Corynebacterium aurimucosum_E,MGYG000003380_01198,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Corynebacterium kefirresidentii,MGYG000003125_01415,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Corynebacterium pacaense,MGYG000002406_01854,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Corynebacterium phoceense,MGYG000001554_02559,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Cronobacter malonaticus,MGYG000002484_01545,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Cronobacter sakazakii,MGYG000002460_03880,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Cutibacterium acnes,MGYG000000111_00948,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Cutibacterium avidum,MGYG000001446_01154,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Dermabacter hominis,"MGYG000001448_00623,MGYG000001448_00621,MGYG000001448_00620","lsrB,lsrC,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2,3","1,1,1"
+Dialister hominis,MGYG000001060_01648,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Dialister succinatiphilus,MGYG000001397_00857,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Dielma fastidiosa,MGYG000001421_01862,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Edwardsiella tarda,MGYG000001351_00368,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Eisenbergiella tayi,MGYG000002330_04788,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Enterobacter asburiae_B,"MGYG000002519_00601,MGYG000002519_00604,MGYG000002519_00602,MGYG000002519_00603","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter bugandensis,"MGYG000002823_00903,MGYG000002823_00906,MGYG000002823_00904,MGYG000002823_00905","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter cancerogenus,"MGYG000001318_01048,MGYG000001318_00153,MGYG000001318_01047,MGYG000001318_00150","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter chengduensis,"MGYG000002502_02548,MGYG000002502_02545,MGYG000002502_02547,MGYG000002502_02546","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter cloacae,"MGYG000002500_04195,MGYG000002500_04192,MGYG000002500_04194,MGYG000002500_04193","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter cloacae_K,"MGYG000002501_02477,MGYG000002501_02474,MGYG000002501_02476,MGYG000002501_02475","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter cloacae_O,"MGYG000000019_00500,MGYG000000019_00503,MGYG000000019_00501,MGYG000000019_00502","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter hormaechei_A,"MGYG000002504_03633,MGYG000002504_03630,MGYG000002504_03632,MGYG000002504_03631","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter kobei,"MGYG000000235_02523,MGYG000000235_02520,MGYG000000235_02522,MGYG000000235_02521","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter ludwigii,"MGYG000002503_01475,MGYG000002503_01478,MGYG000002503_01476,MGYG000002503_01477","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter mori,"MGYG000000015_02577,MGYG000000015_01477,MGYG000000015_02578,MGYG000000015_01480","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter roggenkampii,"MGYG000002499_04263,MGYG000002499_04266,MGYG000002499_04264,MGYG000002499_04265","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter sichuanensis,"MGYG000002498_03618,MGYG000002498_03621,MGYG000002498_03619,MGYG000002498_03620","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter_A timonensis,"MGYG000001536_00854,MGYG000001536_00059,MGYG000001536_00855,MGYG000001536_00062","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterobacter_D kobei_A,"MGYG000003360_03778,MGYG000003360_01521,MGYG000003360_03777,MGYG000003360_01518","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterocloster aldenensis,"MGYG000000179_00518,MGYG000000179_00515,MGYG000000179_00517,MGYG000000179_00516","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterocloster asparagiformis,MGYG000002328_00311,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Enterocloster bolteae,MGYG000001493_01167,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Enterocloster citroniae,"MGYG000000198_03490,MGYG000000198_03493,MGYG000000198_03491,MGYG000000198_03492","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterocloster clostridioformis,MGYG000001386_01730,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Enterocloster clostridioformis_A,"MGYG000001564_00090,MGYG000001564_00087£¬MGYG000001564_00089£¬MGYG000001564_00088","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterocloster lavalensis,MGYG000000172_00983,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Enterocloster sp000155435,"MGYG000001311_04917,MGYG000001311_04914,MGYG000001311_04916,MGYG000001311_04915","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterocloster sp000431375,MGYG000000242_01983,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Enterocloster sp001517625,"MGYG000001531_00101,MGYG000001531_00098,MGYG000001531_00100,MGYG000001531_00099","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterocloster sp005845215,"MGYG000001045_00024,MGYG000001045_04553","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Enterocloster sp900538485,"MGYG000001065_02361,MGYG000001065_02364,MGYG000001065_02362,MGYG000001065_02363","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterocloster sp900541315,MGYG000001246_02565,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Enterocloster sp900543885,MGYG000000774_02216,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Enterocloster sp900551225,"MGYG000002829_01247,MGYG000002829_01079,MGYG000002829_01246,MGYG000002829_01080","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterocloster sp900555905,MGYG000002946_02449,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Enterocloster sp900753815,MGYG000001971_00968,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Enterocloster sp900759225,"MGYG000001250_01661,MGYG000001250_01664,MGYG000001250_01662,MGYG000001250_01663","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Enterocloster sp900770345,MGYG000003593_01499,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Enterococcus_B pernyi,MGYG000002493_02101,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Enterococcus_C asini,"MGYG000000163_01511,MGYG000000163_01512","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Enterococcus_C dispar,MGYG000001208_01867,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Enterococcus_C massiliensis,MGYG000001492_00726,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Enterovibrio hollisae,MGYG000002532_03237,luxR,HTH-type transcriptional regulator LuxR,AHLs,1,1
+Enterovibrio hollisae,"MGYG000002532_02469,MGYG000002532_02472","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Enterovibrio hollisae,MGYG000002532_01889,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Epilithonimonas bovis,MGYG000003804_01096,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Erysipelatoclostridium ramosum,MGYG000001400_00588,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Erysipelatoclostridium saccharogumia,MGYG000001697_02407,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Erysipelatoclostridium spiroforme,MGYG000001304_01504,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Escherichia albertii,MGYG000002507_02785,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Escherichia coli,"MGYG000002506_00811,MGYG000002506_00814,MGYG000002506_00812,MGYG000002506_00813","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Escherichia fergusonii,"MGYG000002515_01504,MGYG000002515_01501,MGYG000002515_01503,MGYG000002515_01502","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Escherichia marmotae,MGYG000002322_02414,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Eubacterium limosum,MGYG000001276_01101,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Eubacterium maltosivorans,MGYG000000219_03164,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Extibacter hylemonae,"MGYG000001710_00990,MGYG000001710_00317,MGYG000001710_00989,MGYG000001710_00988","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,1,1
+Extibacter muris,"MGYG000000165_02083,MGYG000000165_01615,MGYG000000165_02082,MGYG000000165_02081","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Faecalibacillus faecis,MGYG000002444_01341,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Faecalibacillus intestinalis,MGYG000000045_01669,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Franconibacter helveticus,"MGYG000003115_00779,MGYG000003115_00194,MGYG000003115_00780,MGYG000003115_00191","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Fusicatenibacter saccharivorans,MGYG000000251_01045,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Fusobacterium_A mortiferum,MGYG000002485_02403,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Fusobacterium_A ulcerans,MGYG000001327_00481,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Fusobacterium_A ulcerans_A,MGYG000002574_01999,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Fusobacterium_A varium,MGYG000002486_00636,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Fusobacterium_A varium_A,MGYG000001148_00379,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Gemmiger variabilis,MGYG000001322_01986,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Gemmiger variabilis_A,MGYG000000573_00809,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Gorillibacterium timonense,MGYG000001518_04438,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Gracilibacillus massiliensis,"MGYG000001523_03054,MGYG000001523_03055","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Gracilibacillus phocaeensis,MGYG000001549_01668,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Gracilibacillus phocaeensis,MGYG000001549_04350,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Granulicatella adiacens,"MGYG000004316_00779,MGYG000004316_00782,MGYG000004316_00780,MGYG000004316_00781","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Haemophilus influenzae,MGYG000003394_01739,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Haemophilus_D parainfluenzae,MGYG000000317_00111,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Hafnia alvei,MGYG000002508_04052,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Hafnia paralvei,MGYG000001393_02830,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Holdemanella biformis,MGYG000001711_02213,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Holdemania massiliensis,MGYG000001430_02153,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Hungatella effluvii,"MGYG000000032_02409,MGYG000000032_02410","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Hungatella sp005845265,MGYG000000150_00187,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Hungatella_A hathewayi_A,MGYG000001688_03421,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Intestinibacter bartlettii,MGYG000000062_02433,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Kallipyga gabonensis,MGYG000001505_00466,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Kallipyga massiliensis,"MGYG000002318_00540,MGYG000002318_00543,MGYG000002318_00541,MGYG000002318_00542","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Klebsiella aerogenes,"MGYG000002497_03741,MGYG000002497_03744£¬MGYG000002497_03742£¬MGYG000002497_03743","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Klebsiella pneumoniae,"MGYG000002538_04430,MGYG000002538_00065,MGYG000002538_04429,MGYG000002538_00062","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Klebsiella quasipneumoniae,"MGYG000002510_03938,MGYG000002510_03941,MGYG000002510_03939,MGYG000002510_03940","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Klebsiella quasivariicola,"MGYG000003178_01651,MGYG000003178_01096,MGYG000003178_01650,MGYG000003178_00418","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Klebsiella variicola,"MGYG000002511_01266,MGYG000002511_04396,MGYG000002511_01267,MGYG000002511_01268","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Klebsiella_A grimontii,"MGYG000000093_04207,MGYG000000093_04204,MGYG000000093_04206,MGYG000000093_04205","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Klebsiella_A indica,"MGYG000002825_00141,MGYG000002825_00144,MGYG000002825_00142,MGYG000002825_00143","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Klebsiella_A michiganensis,"MGYG000002351_05091,MGYG000002351_00073,MGYG000002351_05090,MGYG000002351_00070","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Klebsiella_A oxytoca,"MGYG000000107_04923,MGYG000000107_04926,MGYG000000107_04924,MGYG000000107_04925","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Kluyvera ascorbata,"MGYG000003358_04685,MGYG000003358_04688","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Kluyvera ascorbata_B,MGYG000002491_04042,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Kluyvera sp902363335,MGYG000000110_01933,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Kosakonia cowanii,"MGYG000003883_01251,MGYG000003883_01254","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Kurthia senegalensis,MGYG000002309_02213,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lachnoanaerobaculum orale,MGYG000002638_00078,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lachnoanaerobaculum umeaense,MGYG000002522_02328,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lachnoclostridium phytofermentans_A,MGYG000003355_00362,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lachnoclostridium_A edouardi,"MGYG000002417_02873,MGYG000002417_00992","lsrA,lsrB",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2","1,1"
+Lachnospira eligens_A,MGYG000000060_02067,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Lachnospira rogosae_A,MGYG000000078_00686,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Lacticaseibacillus paracasei,MGYG000002388_00331,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lacticaseibacillus saniviri,MGYG000002339_01824,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lactobacillus acidophilus,MGYG000002379_01940,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lactobacillus mulieris,MGYG000002313_00396,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lactococcus lactis,MGYG000000226_00881,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lactococcus lactis_E,MGYG000000771_01455,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lactonifactor longoviformis,MGYG000002475_02821,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lactonifactor sp009677585,MGYG000004869_01948,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lagierella massiliensis,MGYG000001515_00741,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lancefieldella rimae,"MGYG000001214_00714,MGYG000001214_00717,MGYG000001214_00715,MGYG000001214_00716","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Laribacter hongkongensis,MGYG000002398_00108,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Latilactobacillus curvatus,MGYG000000020_00648,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Leclercia adecarboxylata_C,"MGYG000003187_02337,MGYG000003187_00342,MGYG000003187_02338,MGYG000003187_00339","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Leminorella grimontii,"MGYG000002305_02416,MGYG000002305_02413","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Leminorella richardii,"MGYG000002385_02322,MGYG000002385_02325","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Ligilactobacillus agilis,MGYG000002390_01436,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Ligilactobacillus murinus,MGYG000000009_01439,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Ligilactobacillus salivarius,MGYG000002324_00098,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Longibaculum muris,MGYG000000134_02121,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Lysinibacillus fusiformis_D,MGYG000004730_00949,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Marvinbryantia formatexigens,MGYG000001698_01691,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Massilibacterium senegalense,"MGYG000001511_01208,MGYG000001511_01207","comA,comP",Transcriptional regulatory protein ComA,AIPs,"1,2","1,1"
+Massilioclostridium coli,MGYG000001560_01605,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Massilioclostridium methylpentosum,MGYG000001332_02402,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Mediterraneibacter massiliensis,MGYG000001528_01320,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Megamonas funiformis,MGYG000002284_01397,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Microvirga massiliensis,MGYG000002310_05993,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Mixta calida,MGYG000003184_01502,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Moellerella wisconsensis,MGYG000002354_00644,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Monoglobus pectinilyticus,MGYG000002424_02237,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Morganella morganii,"MGYG000002512_02066,MGYG000002512_02069,MGYG000002512_02067,MGYG000002512_02068","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Morganella morganii_A,"MGYG000002513_01206,MGYG000002513_00175,MGYG000002513_01205,MGYG000002513_00178","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Morganella morganii_B,"MGYG000000337_02617,MGYG000000337_01294,MGYG000000337_02618,MGYG000000337_02619","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Muricomes contortus_B,"MGYG000001499_00697,MGYG000001499_00603","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Muricomes fissicatena_A,"MGYG000001368_00333,MGYG000001368_00336","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Muricomes oroticus,"MGYG000000176_03228,MGYG000000176_03991,MGYG000000176_05343","lsrA,lsrB,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3","1,1,1"
+Murimonas intestini,"MGYG000000135_04139,MGYG000000135_03480","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Negativicoccus massiliensis,MGYG000000757_00646,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Negativicoccus succinicivorans,MGYG000002903_00669,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Neobacillus jeddahensis,"MGYG000001469_01515,MGYG000001469_01512,MGYG000001469_01514,MGYG000001469_01513","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Nesterenkonia massiliensis,"MGYG000001450_01920,MGYG000001450_01919","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Oceanobacillus caeni,MGYG000002391_02546,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Oceanobacillus jeddahense,MGYG000001472_00282,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Olegusella massiliensis,MGYG000001545_00531,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Olsenella_E timonensis,MGYG000002405_00394,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Oribacterium sinus,MGYG000003013_00295,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Oscillibacter ruminantium,"MGYG000002964_01608,MGYG000002964_00262,MGYG000002964_01609,MGYG000002964_01610","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Paenibacillus amylolyticus,MGYG000003072_04065,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paenibacillus ihuae,"MGYG000001507_01140,MGYG000001507_04576","comA,comP",Transcriptional regulatory protein ComA,AIPs,"1,2","1,1"
+Paenibacillus lactis,MGYG000003402_00006,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paenibacillus lactis,"MGYG000003402_05322,MGYG000003402_05321","comA,comP",Transcriptional regulatory protein ComA,AIPs,"1,2","1,1"
+Paenibacillus lautus_A,MGYG000001371_03203,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paenibacillus lautus_A,MGYG000001371_04121,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Paenibacillus odorifer,MGYG000002414_03892,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paenibacillus odorifer,"MGYG000002414_04208,MGYG000002414_05359","comA,comP",Transcriptional regulatory protein ComA,AIPs,"1,2","1,1"
+Paenibacillus polymyxa,MGYG000003687_01368,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paenibacillus polymyxa,MGYG000003687_00765,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Paenibacillus_A antibioticophila,MGYG000001451_01922,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paenibacillus_A ihumii,MGYG000001514_03316,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paenibacillus_A ihumii,MGYG000001514_05258,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Paenibacillus_A phocaensis,MGYG000001535_01579,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Paenibacillus_A rubinfantis,MGYG000001525_02547,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paenibacillus_A senegalimassiliensis,MGYG000001526_03941,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Paenibacillus_A tuaregi,MGYG000001548_01518,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paenibacillus_B thiaminolyticus,MGYG000002490_04360,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Paenibacillus_L senegalensis,MGYG000001404_02632,comP,Sensor histidine kinase ComP,AIPs,1,1
+Pantoea agglomerans,MGYG000003382_00277,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Pantoea ananatis,"MGYG000003393_00265,MGYG000003393_00262","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Pantoea anthophila,"MGYG000003379_00370,MGYG000003379_00366","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Pantoea brenneri,MGYG000003386_00119,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Pantoea conspicua,MGYG000003803_00999,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Pantoea eucalypti,MGYG000003127_00459,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Pantoea septica,MGYG000002423_00569,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Parabacteroides faecis,MGYG000000174_02151,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paraclostridium bifermentans,MGYG000000024_01171,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paraclostridium sordellii,MGYG000000157_02551,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paraclostridium tenue,MGYG000000075_01153,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Paraeggerthella hongkongensis,MGYG000000767_00272,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Parascardovia denticolens,MGYG000002940_01047,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Parolsenella catena,"MGYG000003298_00266,MGYG000003298_00269,MGYG000003298_00267,MGYG000003298_00268","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Parolsenella massiliensis,"MGYG000000614_01121,MGYG000000614_01118,MGYG000000614_01120,MGYG000000614_01119","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Pauljensenia bouchesdurhonensis,MGYG000004268_00406,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Pauljensenia cardiffensis,MGYG000004566_00595,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Pauljensenia culturomici,"MGYG000003808_00848,MGYG000003808_01988","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Pauljensenia radingae_A,MGYG000001522_00276,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Pauljensenia turicensis,MGYG000000571_00445,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Peptoniphilus_A grossensis,MGYG000002317_00021,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Peptoniphilus_A harei,MGYG000000758_00290,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Peptoniphilus_A harei_A,MGYG000000120_00233,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Peptoniphilus_A phoceensis,MGYG000001532_00936,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Peptoniphilus_B duerdenii,MGYG000003757_00600,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Peptoniphilus_C urinimassiliensis,MGYG000003721_00640,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Peptoniphilus_E obesi,MGYG000001414_01595,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Peptoniphilus_E obesi,MGYG000001414_00620,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Peptostreptococcus russellii,MGYG000001618_01597,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Peribacillus simplex,"MGYG000000083_03622,MGYG000000083_03629","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Phascolarctobacterium faecium,MGYG000004769_00590,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Phascolarctobacterium_A succinatutens,MGYG000001365_01844,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Phascolarctobacterium_A succinatutens_A,MGYG000000591_02051,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Phocaeicola coprocola,MGYG000001306_01656,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Phocaeicola plebeius,MGYG000001364_00073,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Phocea massiliensis,MGYG000001611_01538,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Phyllobacterium sp900539805,"MGYG000002827_02206,MGYG000002827_02209","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Phytobacter diazotrophicus,"MGYG000002904_03359,MGYG000002904_03198,MGYG000002904_03360,MGYG000002904_02622","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Phytobacter massiliensis,"MGYG000001426_02236,MGYG000001426_02239,MGYG000001426_02237,MGYG000001426_02238","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Phytobacter ursingii,"MGYG000002521_05922,MGYG000002521_05073,MGYG000002521_05923,MGYG000002521_05076","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Planococcus massiliensis,MGYG000001482_02621,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Plesiomonas shigelloides,"MGYG000002536_00012,MGYG000002536_00009","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Pluralibacter gergoviae,MGYG000002520_04561,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Prevotella sp900548195,MGYG000002832_01066,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Prevotella sp900552965,MGYG000002668_01678,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Prevotella sp900769055,MGYG000003513_01456,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Prevotella sp900770395,MGYG000000526_02668,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Proteus cibarius,MGYG000001624_01365,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Proteus mirabilis,MGYG000002514_02924,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Proteus penneri,MGYG000002488_02085,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Proteus sp001722135,MGYG000002415_01818,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Proteus sp003144505,MGYG000004813_00825,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Proteus vulgaris,MGYG000002516_02138,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Providencia alcalifaciens,"MGYG000001466_03506,MGYG000001466_03505","lsrA,lsrB",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2","1,1"
+Providencia alcalifaciens_A,"MGYG000001465_02643,MGYG000001465_02642","lsrA,lsrB",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2","1,1"
+Providencia rettgeri,MGYG000004295_00468,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Providencia rettgeri_D,MGYG000001323_04197,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Providencia rustigianii,"MGYG000001708_00753,MGYG000001708_00750","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Providencia stuartii,MGYG000001307_01051,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Pseudescherichia vulneris,"MGYG000003390_00916,MGYG000003390_00913","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Pseudomonas aeruginosa,MGYG000002463_03055,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Pseudomonas_B luteola,MGYG000001457_01232,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Pseudomonas_E extremaustralis,MGYG000003208_01339,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Pseudomonas_E fulva,MGYG000001279_02979,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Pseudomonas_E juntendi,MGYG000002885_01456,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Pseudomonas_E juntendi,MGYG000002885_01625,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Pseudomonas_E massiliensis,MGYG000001485_01811,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Pseudomonas_E putida_P,MGYG000001035_01032,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Pygmaiobacter massiliensis,"MGYG000000319_00932,MGYG000000319_00929,MGYG000000319_00931,MGYG000000319_00930","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Pyramidobacter piscolens,MGYG000001589_00721,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Rahnella variigena,"MGYG000002474_01021,MGYG000002474_01018","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Ralstonia pickettii,MGYG000001384_00615,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Raoultella ornithinolytica,"MGYG000002363_04069,MGYG000002363_04066,MGYG000002363_04068,MGYG000002363_04067","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Robinsoniella peoriensis,"MGYG000002403_00633,MGYG000002403_00632","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Romboutsia dakarensis,MGYG000001460_01096,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Romboutsia dakarensis,MGYG000001460_02728,luxN,Autoinducer 1 sensor kinase/phosphatase LuxN,HAI-1,1,1
+Romboutsia timonensis,MGYG000002563_01009,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Roseburia hominis,MGYG000002517_00247,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Roseburia intestinalis,MGYG000000076_01890,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Roseburia sp003470905,MGYG000000245_03086,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Roseburia sp003470905,MGYG000000245_01806,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Roseburia sp003483745,MGYG000000546_01821,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Roseburia sp900542495,"MGYG000004271_00180,MGYG000004271_00183,MGYG000004271_00181,MGYG000004271_00182","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Roseburia sp900550935,MGYG000000389_00696,luxQ,Autoinducer 2 sensor kinase/phosphatase LuxQ,AI-2,1,1
+Roseburia sp900552665,"MGYG000000271_02158,MGYG000000271_02155,MGYG000000271_02157,MGYG000000271_02156","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Rubeoparvulum massiliense,MGYG000001491_02006,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Ruminococcus_B gnavus,MGYG000001380_00935,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Ruminococcus_G gauvreauii,MGYG000001690_00206,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Salinicola tamaricis,"MGYG000003016_01505,MGYG000003016_00969,MGYG000003016_00972","lsrA,lsrB,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3","1,1,1"
+Salmonella bongori,MGYG000002496_03735,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Salmonella enterica,"MGYG000002366_04597,MGYG000002366_04594,MGYG000002366_04596,MGYG000002366_04595","lsrA,lsrB,lsrC,lsrD",Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Scardovia wiggsiae,MGYG000001283_01243,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Sellimonas intestinalis,MGYG000000159_00192,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Serratia liquefaciens,MGYG000003712_01388,lsrB,Autoinducer 2-binding protein LsrB,AI-2,1,1
+Serratia marcescens_I,"MGYG000002350_00894,MGYG000002350_01697","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Serratia surfactantfaciens,"MGYG000002518_04478,MGYG000002518_04475","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Serratia ureilytica,"MGYG000003399_02272,MGYG000003399_02269","lsrB,lsrD",Autoinducer 2-binding protein LsrB,AI-2,"1,2","1,1"
+Sphingomonas ginsenosidimutans,MGYG000001262_02218,luxR,Transcriptional activator protein LuxR,AHLs,1,1
+Sphingomonas ginsenosidimutans,MGYG000001262_02780,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Staphylococcus haemolyticus,MGYG000002338_01726,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Staphylococcus nepalensis,MGYG000000025_01218,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Staphylococcus xylosus,MGYG000000006_00142,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Staphylococcus_A lentus,MGYG000000010_02726,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Stoquefichus massiliensis,MGYG000001452_01246,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Streptococcus agalactiae,MGYG000002349_00958,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Streptococcus anginosus,MGYG000001362_01626,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Streptococcus constellatus,MGYG000004321_00982,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Streptococcus infantis_I,MGYG000000318_00354,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Streptococcus koreensis,MGYG000002296_01367,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Streptococcus mutans,MGYG000000277_00790,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Streptococcus parasanguinis,MGYG000000023_01318,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Streptococcus parasanguinis_B,MGYG000000199_01036,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Streptococcus pasteurianus,MGYG000000246_01534,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Streptococcus rubneri,MGYG000002982_00196,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Streptomyces albus,MGYG000001443_02225,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Succinatimonas hippei,MGYG000001366_01976,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Thalassobacillus devorans,"MGYG000001508_03911,MGYG000001508_03912","comA,comP",Transcriptional regulatory protein ComA,AIPs,"1,2","1,1"
+Timonella senegalensis,"MGYG000001419_00838,MGYG000001419_00841,MGYG000001419_00839,MGYG000001419_00840",lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Ureibacillus endophyticus,MGYG000004541_01207,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Varibaculum cambriense_A,MGYG000000303_01040,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Varibaculum cambriense_B,MGYG000002899_01259,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Varibaculum timonense,MGYG000001014_00430,comA,Transcriptional regulatory protein ComA,AIPs,1,1
+Veillonella atypica,MGYG000001444_01084,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Veillonella dispar,MGYG000001288_01564,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Veillonella dispar_A,MGYG000000214_00503,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Veillonella parvula_A,MGYG000001349_00493,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Veillonella rogosae,MGYG000003190_01395,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Veillonella tobetsuensis,MGYG000002819_00497,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Veillonella_A magna,MGYG000002565_01779,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Veillonella_A seminalis,MGYG000000968_01363,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Vibrio cholerae,MGYG000002311_00188,luxR,HTH-type transcriptional regulator LuxR,AHLs,1,1
+Vibrio cholerae,"MGYG000002311_02966,MGYG000002311_02965","luxP,luxQ",Autoinducer 2-binding periplasmic protein LuxP,AI-2,"1,2","1,1"
+Vibrio cholerae,MGYG000002311_02768,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Vibrio fluvialis,MGYG000001703_01323,luxR,Transcriptional activator protein LuxR,AHLs,1,1
+Vibrio fluvialis,"MGYG000001703_01004,MGYG000001703_00180","luxP,luxQ",Autoinducer 2-binding periplasmic protein LuxP,AI-2,"1,2","1,1"
+Vibrio fluvialis,MGYG000001703_02884,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Vibrio furnissii,MGYG000001713_02999,luxR,Transcriptional activator protein LuxR,AHLs,1,1
+Vibrio furnissii,"MGYG000001713_02109,MGYG000001713_02108","luxP,luxQ",Autoinducer 2-binding periplasmic protein LuxP,AI-2,"1,2","1,1"
+Vibrio furnissii,MGYG000001713_03531,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Vibrio metoecus,MGYG000002368_02669,luxR,HTH-type transcriptional regulator LuxR,AHLs,1,1
+Vibrio metoecus,"MGYG000002368_03047,MGYG000002368_03048","luxP,luxQ",Autoinducer 2-binding periplasmic protein LuxP,AI-2,"1,2","1,1"
+Vibrio metoecus,MGYG000002368_00658,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Vibrio parahaemolyticus,MGYG000002331_02229,luxR,HTH-type transcriptional regulator LuxR,AHLs,1,1
+Vibrio parahaemolyticus,"MGYG000002331_01238,MGYG000002331_01237","luxP,luxQ",Autoinducer 2-binding periplasmic protein LuxP,AI-2,"1,2","1,1"
+Vibrio parahaemolyticus,MGYG000002331_00740,cqsS,CAI-1 autoinducer sensor kinase/phosphatase CqsS,CAI-1,1,1
+Vibrio parahaemolyticus,MGYG000002331_02751,luxN,Autoinducer 1 sensor kinase/phosphatase LuxN,HAI-1,1,1
+Vibrio vulnificus,MGYG000002533_00941,luxR,HTH-type transcriptional regulator LuxR,AHLs,1,1
+Vibrio vulnificus,"MGYG000002533_02641,MGYG000002533_02640","luxP,luxQ",Autoinducer 2-binding periplasmic protein LuxP,AI-2,"1,2","1,1"
+Victivallis sp002998355,MGYG000003237_02960,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Virgibacillus kapii,MGYG000001470_03083,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Virgibacillus picturae,MGYG000001702_03100,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Vitreoscilla massiliensis,MGYG000001520_00732,rbsB,Ribose import binding protein RbsB,AI-2,1,1
+Yersinia aleksiciae,"MGYG000002458_00631,MGYG000002458_00634,MGYG000002458_00632,MGYG000002458_00633",lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Yersinia bercovieri,"MGYG000002524_02823,MGYG000002524_00747,MGYG000002524_02822,MGYG000002524_00744",lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Yersinia enterocolitica,"MGYG000002335_03577,MGYG000002335_01478,MGYG000002335_03578,MGYG000002335_01475",lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Yersinia frederiksenii,"MGYG000002466_02196,MGYG000002466_02193,MGYG000002466_02195,MGYG000002466_02194",lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Yersinia frederiksenii_C,"MGYG000002467_01454,MGYG000002467_01457,MGYG000002467_01455,MGYG000002467_01456",lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Yersinia intermedia,"MGYG000002525_00496,MGYG000002525_00493,MGYG000002525_00495,MGYG000002525_00494",lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Yersinia kristensenii,"MGYG000002461_04108,MGYG000002461_01387,MGYG000002461_04109,MGYG000002461_01390",lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Yersinia kristensenii_B,"MGYG000002462_01484,MGYG000002462_01481,MGYG000002462_01483,MGYG000002462_01482",lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Yersinia massiliensis,"MGYG000002465_00344,MGYG000002465_00026,MGYG000002465_00345,MGYG000002465_00346",lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Yersinia mollaretii,"MGYG000002471_01457,MGYG000002471_01460,MGYG000002471_01458,MGYG000002471_01459",lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Yersinia pestis,MGYG000002476_03683£¬MGYG000002476_00603£¬MGYG000002476_03684£¬MGYG000002476_03444,lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Yokenella regensburgei,"MGYG000001394_01596,MGYG000001394_01599,MGYG000001394_01597,MGYG000001394_01598",lsrA£¬lsrB£¬lsrC£¬lsrD,Autoinducer 2 import ATP-binding protein LsrA,AI-2,"1,2,3,4","1,1,1,1"
+Acinetobacter baumannii,"MGYG000002344-02685,MGYG000002344-02686","qseB,qseC",Sensor protein QseC,AI-3,"1,2","1,1"
+Acinetobacter courvalinii,"MGYG000002343-02704,MGYG000002343-02703","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Acinetobacter johnsonii,"MGYG000001260-01333,MGYG000001260-01334","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Acinetobacter junii,"MGYG000001343-01658,MGYG000001343-01659","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Acinetobacter mesopotamicus,"MGYG000000082-01810,MGYG000000082-01811","qseB,qseC",Sensor protein QseC,AI-3,"1,2","1,1"
+Acinetobacter nosocomialis,"MGYG000002345-01011,MGYG000002345-01012","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Acinetobacter pittii,"MGYG000002346-03461,MGYG000002346-03462","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Acinetobacter radioresistens,"MGYG000001344-02922,MGYG000001344-02923","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Acinetobacter ursingii,"MGYG000002341-00090,MGYG000002341-02293","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Acinetobacter variabilis,"MGYG000002342-02639,MGYG000002342-02638","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Aggregatibacter segnis,"MGYG000004313-00466,MGYG000004313-00465","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Chimaeribacter arupi,"MGYG000003378-00300,MGYG000003378-00301","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Chimaeribacter coloradensis,"MGYG000003123-02008,MGYG000003123-02009","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Citrobacter braakii,"MGYG000002816-03783,MGYG000002816-03782","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Citrobacter europaeus,"MGYG000002495-01789,MGYG000002495-01788","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Citrobacter freundii,"MGYG000000108-02561,MGYG000000108-02560","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Citrobacter gillenii,"MGYG000002535-00265,MGYG000002535-00264","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Citrobacter portucalensis,"MGYG000001705-00749,MGYG000001705-00748","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Citrobacter portucalensis_A,"MGYG000001317-00468,MGYG000001317-00467","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Citrobacter werkmanii,"MGYG000003372-01780,MGYG000003372-01781","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Citrobacter youngae,"MGYG000000124-03997,MGYG000000124-03998","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Citrobacter_A amalonaticus,"MGYG000002477-04767,MGYG000002477-04768","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Citrobacter_A farmeri,"MGYG000002534-00748,MGYG000002534-00747","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Citrobacter_A sedlakii,"MGYG000001700-02612,MGYG000001700-02613","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Citrobacter_B koseri,"MGYG000002494-04180,MGYG000002494-04179","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter asburiae_B,"MGYG000002519-00853,MGYG000002519-00852","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter bugandensis,"MGYG000002823-03733,MGYG000002823-03732","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter cancerogenus,"MGYG000001318-00959,MGYG000001318-00960","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter chengduensis,"MGYG000002502-03544,MGYG000002502-03543","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter cloacae,"MGYG000002500-04040,MGYG000002500-04041","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter hormaechei_A,"MGYG000002504-03519,MGYG000002504-03520","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter kobei,"MGYG000000235-04116,MGYG000000235-04115","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter ludwigii,"MGYG000002503-01563,MGYG000002503-01562","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter mori,"MGYG000000015-02660,MGYG000000015-02659","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter roggenkampii,"MGYG000002499-01635,MGYG000002499-01636","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter sichuanensis,"MGYG000002498-03685,MGYG000002498-03684","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter_A timonensis,MGYG000001536-00919.MGYG000001536-00918,"qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Enterobacter_D kobei_A,"MGYG000003360-03703,MGYG000003360-03704","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Escherichia albertii,"MGYG000002507-02963,MGYG000002507-02964","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Escherichia coli,"MGYG000002506-02668,MGYG000002506-02669","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Escherichia fergusonii,"MGYG000002515-02879,MGYG000002515-02880","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Escherichia marmotae,"MGYG000002322-02664,MGYG000002322-02665","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Haemophilus influenzae,"MGYG000003394-00973,MGYG000003394-00974","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Haemophilus_A parahaemolyticus,"MGYG000004687-00915,MGYG000004687-00914","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Haemophilus_A paraphrohaemolyticus,"MGYG000002551-00703,MGYG000002551-00704","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Haemophilus_A sputorum,"MGYG000001071-00327,MGYG000001071-00326","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Haemophilus_D parainfluenzae,"MGYG000000317-01090,MGYG000000317-01089","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Haemophilus_D pittmaniae,"MGYG000002898-00630,MGYG000002898-00631","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Hafnia alvei,"MGYG000002508-00575,MGYG000002508-00574","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Hafnia paralvei,"MGYG000001393-00961,MGYG000001393-00960","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Klebsiella aerogenes,"MGYG000002497-03816,MGYG000002497-03815","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Klebsiella pneumoniae,"MGYG000002538-04361,MGYG000002538-04362","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Klebsiella quasipneumoniae,"MGYG000002510-01286,MGYG000002510-01285","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Klebsiella variicola,"MGYG000002511-01345,MGYG000002511-01344","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Klebsiella_A grimontii,"MGYG000000093-02405,MGYG000000093-02404","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Klebsiella_A indica,"MGYG000002825-00234,MGYG000002825-00233","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Klebsiella_A michiganensis,"MGYG000002351-05024,MGYG000002351-05025","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Klebsiella_A oxytoca,"MGYG000000107-04752,MGYG000000107-04753","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Kluyvera ascorbata,"MGYG000003358-02294,MGYG000003358-02293","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Kosakonia cowanii,"MGYG000003883-01426,MGYG000003883-01427","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Leclercia adecarboxylata_C,"MGYG000003187-03759,MGYG000003187-03760","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Leminorella grimontii,"MGYG000002305-00523,MGYG000002305-00524","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Leminorella richardii,"MGYG000002385-01754,MGYG000002385-01755","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Mesosutterella massiliensis,MGYG000001494-00424,qseC,Sensor protein QseC,AI-3,1,1
+Mesosutterella multiformis,MGYG000002447-00611,qseC,Sensor protein QseC,AI-3,1,1
+Microvirga massiliensis,"MGYG000002310-01654,MGYG000002310-01653","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Morganella morganii,"MGYG000002512-01858,MGYG000002512-01857","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Pantoea agglomerans,"MGYG000003382-00908,MGYG000003382-00907","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Pantoea ananatis,"MGYG000003393-00301,MGYG000003393-00300","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Pantoea anthophila,"MGYG000003379-01498,MGYG000003379-01497","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Pantoea brenneri,"MGYG000003386-00124,MGYG000003386-00125","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Pantoea conspicua,"MGYG000003803-00994,MGYG000003803-00993","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Pantoea eucalypti,"MGYG000003127-00202,MGYG000003127-00201","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Pantoea septica,"MGYG000002423-00564,MGYG000002423-00563","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Phytobacter massiliensis,"MGYG000001426-02312,MGYG000001426-02311","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Pluralibacter gergoviae,"MGYG000002520-01459,MGYG000002520-01458","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Pseudomonas aeruginosa,"MGYG000002463-02932,MGYG000002463-02931","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Pseudomonas citronellolis,"MGYG000004151-01488,MGYG000004151-01489","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Rahnella variigena,"MGYG000002474-00755,MGYG000002474-00756","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Ralstonia pickettii,MGYG000001384-01054,qseC,Sensor protein QseC,AI-3,1,1
+Raoultella ornithinolytica,"MGYG000002363-04011,MGYG000002363-04012","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Salinicola tamaricis,MGYG000003016-00617,qseC,Sensor protein QseC,AI-3,1,1
+Salmonella bongori,"MGYG000002496-02234,MGYG000002496-02235","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Salmonella enterica,"MGYG000002366-00692,MGYG000002366-00691","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Serratia liquefaciens,"MGYG000003712-02796,MGYG000003712-02795","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Serratia marcescens_I,"MGYG000002350-02977,MGYG000002350-02978","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Serratia surfactantfaciens,"MGYG000002518-02616,MGYG000002518-02617","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Serratia ureilytica,"MGYG000003399-01308,MGYG000003399-01307","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Vibrio cholerae,MGYG000002311-03299,qseC,Sensor protein QseC,AI-3,1,1
+Vibrio fluvialis,"MGYG000001703-01269,MGYG000001703-01268","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Vibrio furnissii,"MGYG000001713-02406,MGYG000001713-02405","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Vibrio metoecus,MGYG000002368-02928,qseC,Sensor protein QseC,AI-3,1,1
+Vibrio parahaemolyticus,MGYG000002331-03046,qseC,Sensor protein QseC,AI-3,1,1
+Vibrio vulnificus,"MGYG000002533-03065,MGYG000002533-03064","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Yersinia aleksiciae,MGYG000002458-00055,qseB,Transcriptional regulatory protein QseB,AI-3,1,1
+Yersinia massiliensis,MGYG000002465-02303,qseB,Transcriptional regulatory protein QseB,AI-3,1,1
+Yersinia mollaretii,MGYG000002471-00096,qseB,Transcriptional regulatory protein QseB,AI-3,1,1
+Yokenella regensburgei,"MGYG000001394-01662,MGYG000001394-01661","qseB,qseC",Transcriptional regulatory protein QseB,AI-3,"1,2","1,1"
+Bacillus_A paranthracis,MGYG000002283-01815,agrA,Accessory gene regulator A,AIPs,1,1
+Bacillus_A wiedmannii,MGYG000002356-05416,agrA,Accessory gene regulator A,AIPs,1,1
+Blautia hominis,MGYG000002437-00125,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridioides difficile,MGYG000002369-02502,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridioides difficile_A,MGYG000002370-00905,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridium cuniculi,MGYG000000104-01614,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridium paraputrificum,MGYG000000151-02057,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridium sp001916075,MGYG000002190-00720,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridium sp900539375,MGYG000000977-00409,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridium sp900766315,MGYG000003396-01739,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridium_F botulinum,MGYG000002355-01176,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridium_F botulinum_A,MGYG000001309-03727,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridium_H massiliodielmoense,MGYG000002402-01647,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridium_J ihumii,MGYG000001699-03702,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridium_J senegalense,MGYG000001407-01841,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridium_P massiliamazoniense,MGYG000001513-03481,agrA,Accessory gene regulator A,AIPs,1,1
+Clostridium_P mediterraneense,MGYG000001553-00459,agrA,Accessory gene regulator A,AIPs,1,1
+Companilactobacillus farciminis,MGYG000004788-00289,agrA,Accessory gene regulator A,AIPs,1,1
+Companilactobacillus farciminis_A,MGYG000000822-01690,agrA,Accessory gene regulator A,AIPs,1,1
+Eisenbergiella tayi,MGYG000002330-01871,agrA,Accessory gene regulator A,AIPs,1,1
+Enterococcus caccae,MGYG000002468-02410,agrA,Accessory gene regulator A,AIPs,1,1
+Enterococcus faecalis,MGYG000001694-02558,agrA,Accessory gene regulator A,AIPs,1,1
+Enterococcus_A avium,MGYG000002270-03572,agrA,Accessory gene regulator A,AIPs,1,1
+Enterococcus_A gilvus,MGYG000003714-01805,agrA,Accessory gene regulator A,AIPs,1,1
+Enterococcus_A pallens,MGYG000002967-00376,agrA,Accessory gene regulator A,AIPs,1,1
+Enterococcus_A raffinosus,MGYG000001696-00297,agrA,Accessory gene regulator A,AIPs,1,1
+Enterococcus_B durans,MGYG000000162-01798,agrA,Accessory gene regulator A,AIPs,1,1
+Enterococcus_B faecium,MGYG000002353-00413,agrA,Accessory gene regulator A,AIPs,1,1
+Enterococcus_B hirae,MGYG000004798-00167,agrA,Accessory gene regulator A,AIPs,1,1
+Enterococcus_B lactis,MGYG000002320-01445,agrA,Accessory gene regulator A,AIPs,1,1
+Enterococcus_B pernyi,MGYG000002493-00697,agrA,Accessory gene regulator A,AIPs,1,1
+Gracilibacillus phocaeensis,MGYG000001549-00351,agrA,Accessory gene regulator A,AIPs,1,1
+Hungatella effluvii,MGYG000000032-01188,agrA,Accessory gene regulator A,AIPs,1,1
+Lacticaseibacillus rhamnosus,MGYG000001293-02341,agrA,Accessory gene regulator A,AIPs,1,1
+Lacticaseibacillus saniviri,MGYG000002339-00065,agrA,Accessory gene regulator A,AIPs,1,1
+Lacticaseibacillus zeae,MGYG000002383-00172,agrA,Accessory gene regulator A,AIPs,1,1
+Lactiplantibacillus pentosus,MGYG000002787-00738,agrA,Accessory gene regulator A,AIPs,1,1
+Lactiplantibacillus plantarum,MGYG000002386-00349,agrA,Accessory gene regulator A,AIPs,1,1
+Lactobacillus acidophilus,MGYG000002379-00154,agrA,Accessory gene regulator A,AIPs,1,1
+Lactobacillus amylolyticus,MGYG000001517-00179,agrA,Accessory gene regulator A,AIPs,1,1
+Lactobacillus amylovorus,MGYG000000161-01345,agrA,Accessory gene regulator A,AIPs,1,1
+Lactobacillus crispatus,MGYG000002348-01418,agrA,Accessory gene regulator A,AIPs,1,1
+Lactobacillus delbrueckii,MGYG000001369-01104,agrA,Accessory gene regulator A,AIPs,1,1
+Lactobacillus gallinarum,MGYG000003334-00014,agrA,Accessory gene regulator A,AIPs,1,1
+Lactobacillus hominis,MGYG000002360-00997,agrA,Accessory gene regulator A,AIPs,1,1
+Lactobacillus johnsonii,MGYG000000008-00391,agrA,Accessory gene regulator A,AIPs,1,1
+Lactobacillus kalixensis,MGYG000002956-00207,agrA,Accessory gene regulator A,AIPs,1,1
+Lactobacillus paragasseri,MGYG000002387-00355,agrA,Accessory gene regulator A,AIPs,1,1
+Lactobacillus porci,MGYG000000916-00429,agrA,Accessory gene regulator A,AIPs,1,1
+Lactobacillus ultunensis,MGYG000001335-01231,agrA,Accessory gene regulator A,AIPs,1,1
+Lactococcus_A piscium_C,MGYG000002997-00097,agrA,Accessory gene regulator A,AIPs,1,1
+Lactonifactor longoviformis,MGYG000002475-03866,agrA,Accessory gene regulator A,AIPs,1,1
+Lactonifactor sp009677585,MGYG000004869-02864,agrA,Accessory gene regulator A,AIPs,1,1
+Latilactobacillus curvatus,MGYG000000020-01763,agrA,Accessory gene regulator A,AIPs,1,1
+Latilactobacillus sakei,MGYG000002389-00620,agrA,Accessory gene regulator A,AIPs,1,1
+Leuconostoc lactis,MGYG000004652-01147,agrA,Accessory gene regulator A,AIPs,1,1
+Leuconostoc mesenteroides,MGYG000001341-00134,agrA,Accessory gene regulator A,AIPs,1,1
+Levilactobacillus brevis,MGYG000002380-00554,agrA,Accessory gene regulator A,AIPs,1,1
+Levilactobacillus namurensis,MGYG000004860-02260,agrA,Accessory gene regulator A,AIPs,1,1
+Ligilactobacillus agilis,MGYG000002390-00989,agrA,Accessory gene regulator A,AIPs,1,1
+Ligilactobacillus animalis,MGYG000000097-01139,agrA,Accessory gene regulator A,AIPs,1,1
+Ligilactobacillus murinus,MGYG000000009-00407,agrA,Accessory gene regulator A,AIPs,1,1
+Ligilactobacillus ruminis,MGYG000001334-01307,agrA,Accessory gene regulator A,AIPs,1,1
+Ligilactobacillus salivarius,MGYG000002324-01928,agrA,Accessory gene regulator A,AIPs,1,1
+Limosilactobacillus antri,MGYG000001516-00300,agrA,Accessory gene regulator A,AIPs,1,1
+Limosilactobacillus caviae,MGYG000004287-00067,agrA,Accessory gene regulator A,AIPs,1,1
+Limosilactobacillus oris,MGYG000001077-00660,agrA,Accessory gene regulator A,AIPs,1,1
+Limosilactobacillus vaginalis,MGYG000004046-01008,agrA,Accessory gene regulator A,AIPs,1,1
+Listeria grayi,MGYG000001298-01320,agrA,Accessory gene regulator A,AIPs,1,1
+Listeria innocua,MGYG000001395-02609,agrA,Accessory gene regulator A,AIPs,1,1
+Listeria monocytogenes,MGYG000002392-01753,agrA,Accessory gene regulator A,AIPs,1,1
+Loigolactobacillus coryniformis,MGYG000003710-00021,agrA,Accessory gene regulator A,AIPs,1,1
+Murimonas intestini,MGYG000000135-01105,agrA,Accessory gene regulator A,AIPs,1,1
+Oribacterium sinus,MGYG000003013-01332,agrA,Accessory gene regulator A,AIPs,1,1
+Paenibacillus ihuae,MGYG000001507-04076,agrA,Accessory gene regulator A,AIPs,1,1
+Paraclostridium bifermentans,MGYG000000024-02936,agrA,Accessory gene regulator A,AIPs,1,1
+Paraclostridium sordellii,MGYG000000157-00697,agrA,Accessory gene regulator A,AIPs,1,1
+Paraclostridium tenue,MGYG000000075-02569,agrA,Accessory gene regulator A,AIPs,1,1
+Pediococcus pentosaceus,MGYG000002367-00208,agrA,Accessory gene regulator A,AIPs,1,1
+Peptoniphilus_A lacrimalis,MGYG000003727-01077,agrA,Accessory gene regulator A,AIPs,1,1
+Romboutsia dakarensis,MGYG000001460-02057,agrA,Accessory gene regulator A,AIPs,1,1
+Staphylococcus argenteus,MGYG000002548-02039,agrA,Accessory gene regulator A,AIPs,1,1
+Staphylococcus aureus,MGYG000002337-01895,agrA,Accessory gene regulator A,AIPs,1,1
+Staphylococcus capitis,MGYG000003401-00925,agrA,Accessory gene regulator A,AIPs,1,1
+Staphylococcus epidermidis,MGYG000000122-01571,agrA,Accessory gene regulator A,AIPs,1,1
+Staphylococcus haemolyticus,MGYG000002338-01426,agrA,Accessory gene regulator A,AIPs,1,1
+Staphylococcus hominis,MGYG000002399-01912,agrA,Accessory gene regulator A,AIPs,1,1
+Staphylococcus lugdunensis,MGYG000002400-01379,agrA,Accessory gene regulator A,AIPs,1,1
+Staphylococcus nepalensis,MGYG000000025-01964,agrA,Accessory gene regulator A,AIPs,1,1
+Staphylococcus schleiferi,MGYG000001437-01351,agrA,Accessory gene regulator A,AIPs,1,1
+Staphylococcus warneri,MGYG000002301-02401,agrA,Accessory gene regulator A,AIPs,1,1
+Staphylococcus xylosus,MGYG000000006-01379,agrA,Accessory gene regulator A,AIPs,1,1
+Staphylococcus_A lentus,MGYG000000010-02183,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus agalactiae,MGYG000002349-00643,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus anginosus,MGYG000001362-00873,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus constellatus,MGYG000004321-01427,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus gordonii,MGYG000001342-01810,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus infantarius,MGYG000001308-00971,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus lutetiensis,MGYG000000088-01886,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus mitis,MGYG000003392-00595,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus mutans,MGYG000000277-00747,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus parasanguinis,MGYG000000023-01329,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus pasteurianus,MGYG000000246-01731,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus salivarius,MGYG000000113-00608,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus sobrinus,MGYG000004770-00321,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus sp000187445,MGYG000001068-00113,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus sp001556435,MGYG000004789-00572,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus sp900546335,MGYG000002891-00413,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus sp900550895,MGYG000004266-00707,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus sp902363395,MGYG000000114-01308,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus sp902373455,MGYG000001274-00139,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus thermophilus,MGYG000004345-01835,agrA,Accessory gene regulator A,AIPs,1,1
+Streptococcus vestibularis,MGYG000000580-01494,agrA,Accessory gene regulator A,AIPs,1,1
+Turicibacter sp001543345,MGYG000000037-01467,agrA,Accessory gene regulator A,AIPs,1,1
+Ureibacillus endophyticus,MGYG000004541-03282,agrA,Accessory gene regulator A,AIPs,1,1
+Weissella paramesenteroides,MGYG000001340-01235,agrA,Accessory gene regulator A,AIPs,1,1
