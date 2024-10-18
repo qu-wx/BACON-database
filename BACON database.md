@@ -1,7 +1,7 @@
 ﻿
 # BACON database 
 ---------
-# 1.Intra-species communication
+# 1.[Intra-species communication](https://github.com/qu-wx/BACON-database/tree/main/Intra-species)
 BACON database for the intra-species communication is curated from existing databases and literature mining, and contains 43 communication entries of 22 species. Users can easily download the corresponding database for the species of interest.
 
 # 2.Cross-species communication
@@ -10,14 +10,14 @@ For the synthesis group, it contains 899 communication entries derived from 663 
 For example, we aim to study the communication among Bacteroides dorei and Acinetobacter baumannii, Aeromonas caviae, Anaerosalibacter massiliensis, and Anaerostipes rhamnosivorans. 
 
 ```r
-synthesis_group <- read.csv('C:\\Users\\86153\\Desktop\\qu\\cellchat_ecoli\\reference\\db\\microbiome_db_synthesis_group.csv',header = T)
+synthesis_group <- read.csv('microbiome_db_synthesis_group.csv',header = T)
 species_i_choose <- c("Bacteroides dorei",'Acinetobacter baumannii','Aeromonas caviae','Anaerosalibacter massiliensis','Anaerostipes rhamnosivorans') 
 ```
 
 ## 2.Select species from reception group
 
 ```r
-reception_group <- read.csv('C:\\Users\\86153\\Desktop\\qu\\cellchat_ecoli\\reference\\db\\microbiome_db_reception_group.csv',header = T)
+reception_group <- read.csv('microbiome_db_reception_group.csv',header = T)
 ```
 
 
